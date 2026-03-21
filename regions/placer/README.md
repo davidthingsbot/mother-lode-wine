@@ -1,57 +1,75 @@
 # Placer County
 
-> From Auburn to the high Sierra — emerging wine country
+> Gateway to the Sierra Foothills — 30 minutes from Sacramento
 
 ## Overview
 
-Placer County stretches from the Sacramento Valley foothills to the Sierra Nevada crest at Lake Tahoe. Wine production is concentrated in the foothill region around Auburn, Lincoln, and the historic mining towns along Interstate 80.
+Placer County offers the most accessible Sierra Foothills wine experience, with 20+ wineries scattered across Auburn, Lincoln, Loomis, Newcastle, Rocklin, and Granite Bay. The Placer Wine Trail provides a rustic escape just a short drive from the state capital.
 
 | Field | Value |
 |-------|-------|
-| **AVA** | Sierra Foothills (no sub-AVA) |
-| **Wineries** | 15–20 |
-| **Elevation** | 500–2,500 ft |
-| **Key Towns** | Auburn, Lincoln, Newcastle, Loomis, Penryn |
-
-## Geography
-
-Placer County vineyards are scattered across the western foothills, from near the valley floor to higher elevations approaching 2,500 feet. The region lacks the concentration of neighboring El Dorado and Amador but has a growing number of small producers.
+| **AVA** | Sierra Foothills |
+| **Wineries** | 20+ |
+| **Elevation** | 400–2,000 ft |
+| **Key Towns** | Auburn, Lincoln, Loomis, Newcastle, Rocklin, Granite Bay |
 
 ## Climate
 
-- **Days:** Hot to very hot (Region II-III)
-- **Nights:** Moderate cooling
-- **Diurnal swing:** 25–40°F
-- **Growing season:** 260+ days
-- **Rainfall:** 20–35 inches annually
-
-Lower elevations are warmer; higher sites near Auburn benefit from cooler nights.
+- **Access:** Easy from I-80 and Highway 49
+- **Days:** Mediterranean, warm
+- **Nights:** Cooled by delta breezes and Sierra winds
+- **Growing season:** Long
 
 ## Signature Varietals
 
-- **Zinfandel**
-- **Cabernet Sauvignon**
-- **Syrah**
-- **Petite Sirah**
-- **Viognier**
+- **Zinfandel** — Heritage grape
+- **Syrah** — Rhône-style
+- **Barbera** — Italian tradition
+- **Cabernet Franc** — Bordeaux varietals
 
-## Notable Wineries
+## Wineries
 
-*See individual files for details*
+### Destination Wineries
 
-- Mt. Vernon Winery
-- Lone Buffalo Vineyards
-- Ciotti Cellars
-- Secret Ravine Winery
-- Rancho Roble Vineyards
+- [Wise Villa Winery](wise-villa.md) — Golden State Winery of the Year 2015, Tuscan bistro
+- [Mt. Vernon Winery](mt-vernon.md) — Placer County's largest and most-awarded
 
-## History
+### Auburn / Newcastle Area
 
-Placer County was among the original Gold Rush wine regions. Leon Adams documented wineries operating in Colfax, Lincoln, Penryn, and Auburn during the 1870s–1890s. The industry disappeared during Prohibition and has only recently begun to re-emerge.
+- [Dono dal Cielo](dono-dal-cielo.md) — Zinfandel specialists since 2005
+- [Lone Buffalo Vineyards](lone-buffalo.md) — "Fit for Cowboys & Kings"
+- [Viña Castellano](vina-castellano.md) — Stone cave tasting room
+
+### Lincoln Area
+
+- [Ciotti Cellars](ciotti-cellars.md) — Ultra-premium small lots
+- [Rancho Roble Vineyards](rancho-roble.md) — Syrah/Barbera since 1999
+- [Rappé Family Vineyards](rappe-family.md) — Award-winning family wines
+
+### Loomis Area
+
+- [Casque Wines](casque-wines.md) — Rhône-style specialist
+- [Hill Top Oaks](hill-top-oaks.md) — True "vino locale" since 1965
+- [Secret Ravine Vineyards](secret-ravine.md) — Rare Italian varietals
+
+### Rocklin / Granite Bay
+
+- [Cante Ao Vinho](cante-ao-vinho.md) — Evening hours, welcoming
+- [Mount Saint Joseph Wines](mount-saint-joseph.md) — Bordeaux with live music
+
+### Additional Wineries
+
+- [Dora Dain Wines](dora-dain.md) — "Micro micro" production
+- [PaZa Estate Winery](paza-estate.md) — Small-lot passion
+- [Twin Rocks Estate](twin-rocks.md) — Gold Rush heritage
+
+## The Placer Wine Trail
+
+The Placer Wine Trail connects boutique wineries dedicated to preserving the historic winemaking legacy of the California Sierra Foothills. Open every weekend, the trail runs throughout Placer County and is easily accessible from I-80 and Highway 49.
 
 ## Resources
 
-- [Placer County Wine Trail](https://placerwinetrail.com/)
+- [Placer Wine Trail](https://placerwine.com/)
 
 ---
 
