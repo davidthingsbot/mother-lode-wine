@@ -32,6 +32,26 @@ Generated using `scripts/generate-winery-maps.py` and `scripts/batch-generate-ma
 | Yuba | 2 |
 | **Total** | **121** |
 
+## Winery Photos
+
+All winery photos in `images/wineries/*/photo.jpg` are sourced from:
+
+### Unsplash
+- **Source:** https://unsplash.com
+- **License:** Unsplash License (free for commercial and non-commercial use)
+- **Photos Used:** Vineyard rows, wine grapes, wine barrels, winery buildings, hillside vineyards
+- **Generated:** March 2026
+
+### Lorem Picsum (Fallback)
+- **Source:** https://picsum.photos
+- **License:** Unsplash License (images sourced from Unsplash)
+- **Usage:** Fallback for wineries where direct Unsplash URLs failed
+- **Generated:** March 2026
+
+### Photo Coverage
+
+All 121 wineries now have photos in `images/wineries/*/photo.jpg`.
+
 ## Other Images
 
 ### wine-barrels.jpg
