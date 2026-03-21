@@ -238,3 +238,76 @@ For future searchability, consider including in the Overview table:
 - Prefer HTTPS URLs
 - Link to official winery websites, not aggregators
 - Include social media only if particularly active/useful
+
+---
+
+## Images
+
+### Folder Structure
+
+```
+images/
+  regions/
+    sierra-foothills-map.png    # Full region overview map
+    sierra-foothills-ava-map.pdf # Official TTB AVA boundaries
+    hero-vineyard.jpg           # Hero image for the region
+    el-dorado/
+      map.png                   # County map (OpenStreetMap)
+      vineyard.jpg              # Representative photo
+    amador/
+      map.png
+      vineyard.jpg
+    ...
+  wineries/
+    <winery-name>/
+      exterior.jpg              # Winery building/entrance
+      tasting-room.jpg          # Interior
+      vineyard.jpg              # Estate vineyard
+      wines.jpg                 # Wine bottles/lineup
+      ...
+  IMAGE_SOURCES.md              # Licensing & attribution
+```
+
+### Image Naming
+
+**Regions:**
+- `map.png` — OpenStreetMap-derived map
+- `vineyard.jpg` — Representative vineyard photo
+- `landscape.jpg` — Scenic view of the region
+
+**Wineries:**
+- `exterior.jpg` — Building/entrance
+- `tasting-room.jpg` — Interior
+- `vineyard.jpg` — Estate vineyard
+- `wines.jpg` — Wine bottles
+- `logo.png` — Winery logo (if available)
+- `visit-YYYY-MM-DD.jpg` — Photos from specific visits
+
+### Image Sources
+
+**Acceptable sources:**
+1. Personal photos from visits (preferred)
+2. OpenStreetMap tiles for maps (CC-BY-SA)
+3. Unsplash photos (free license)
+4. Wikimedia Commons (check individual licenses)
+5. TTB official maps (public domain)
+6. Press images from wineries (with permission)
+
+**Do NOT use:**
+- Google Images / Google Maps screenshots
+- Social media photos without permission
+- Copyrighted marketing materials
+
+### Attribution
+
+All image sources must be documented in `images/IMAGE_SOURCES.md`.
+
+### Map Generation
+
+Run `scripts/generate-maps.py` to regenerate all region maps from OpenStreetMap tiles:
+
+```bash
+python3 scripts/generate-maps.py
+```
+
+Maps are 768×768 pixels (3×3 tiles at 256px each).

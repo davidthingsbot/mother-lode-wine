@@ -2,6 +2,8 @@
 
 A curated guide to wineries and vineyards in California's historic Mother Lode region — the Sierra Foothills wine country.
 
+![Sierra Foothills Wine Region](images/regions/hero-vineyard.jpg)
+
 ## About the Region
 
 The Sierra Foothills AVA encompasses portions of eight California counties in the western foothills of the Sierra Nevada mountains. Wine grapes were first introduced here during the Gold Rush of 1849, when prospectors with European winemaking knowledge turned to viticulture as placer mining declined. By 1890, more than 100 wineries operated in what was then called "the Mother Lode."
@@ -23,12 +25,25 @@ Yuba · Nevada · Placer · El Dorado · Amador · Calaveras · Tuolumne · Mari
 ## Structure
 
 ```
-regions/           # Sub-region and county profiles
-  el-dorado/       # Wineries in El Dorado County/AVA
-  amador/          # Wineries in Amador County
-  ...
-HISTORY.md         # Regional wine history
-AGENTS.md          # File format specification
+regions/              # Sub-region and county profiles
+  el-dorado/          # El Dorado County/AVA
+    README.md         # Region overview
+    *.md              # Individual wineries
+  amador/             # Amador County
+  calaveras/          # Calaveras County
+  placer/             # Placer County
+  nevada/             # Nevada County
+  yuba/               # Yuba County
+  tuolumne/           # Tuolumne County
+  mariposa/           # Mariposa County
+images/               # Maps and photos
+  regions/            # Region maps & vineyard photos
+  wineries/           # Winery-specific images
+  IMAGE_SOURCES.md    # Licensing & attribution
+scripts/              # Utilities
+  generate-maps.py    # Generate region maps from OSM
+HISTORY.md            # Regional wine history
+AGENTS.md             # File format specification
 ```
 
 ## Key Varietals
