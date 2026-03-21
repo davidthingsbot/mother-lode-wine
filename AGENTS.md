@@ -1,30 +1,128 @@
-# AGENTS.md — Winery File Format
+# AGENTS.md — Repository Format Specification
 
-This document defines the standard format for winery entries in this repository.
+This document defines the standard formats for region overviews and winery entries.
 
-## File Location
+---
 
-Wineries are organized by county/region:
+## Repository Structure
 
 ```
 regions/
   el-dorado/
-    boeger-winery.md
+    README.md           # Region overview
+    boeger-winery.md    # Individual winery
     lava-cap-winery.md
   amador/
+    README.md
     sobon-estate.md
     terre-rouge.md
-  calaveras/
-    ironstone-vineyards.md
+  ...
 ```
 
-## File Naming
+---
 
-- Lowercase, hyphenated: `winery-name.md`
-- Use the winery's common name, not corporate entity
-- Examples: `boeger-winery.md`, `terre-rouge.md`, `jeff-runquist-wines.md`
+## Region Overview Format
 
-## Winery File Template
+Each region folder contains a `README.md` with the following structure:
+
+### Region Template
+
+```markdown
+# [County/Region Name]
+
+> *[One-line tagline capturing the region's identity]*
+
+## Overview
+
+Brief 2-3 paragraph introduction covering:
+- Geographic location within the Mother Lode
+- Wine industry significance
+- What makes the region distinctive
+
+| Field | Value |
+|-------|-------|
+| **AVA(s)** | Sub-AVA names or "Sierra Foothills (no sub-AVA)" |
+| **Wineries** | Approximate count |
+| **Elevation** | Range in feet |
+| **Key Towns** | Main towns/tasting destinations |
+
+## AVAs
+
+### [AVA Name]
+- **Established:** Year
+- **Area:** Geographic description
+- **Elevation:** Range
+- **Characteristics:** Soil, terrain, microclimate
+
+*Repeat for each sub-AVA in the region. Omit section if no sub-AVAs.*
+
+## Climate
+
+- **Days:** Temperature description (Region II, III, etc.)
+- **Nights:** Cooling factors
+- **Diurnal swing:** Temperature range (°F)
+- **Growing season:** Days
+- **Rainfall:** Annual inches
+
+## Signature Varietals
+
+List the 4-6 most important grape varieties for the region:
+
+- **Zinfandel** — Brief note (e.g., "old-vine heritage")
+- **Syrah** — Brief note
+- ...
+
+## Notable Wineries
+
+*See individual files for details*
+
+- Winery Name
+- Winery Name
+- ...
+
+## History
+
+2-4 paragraphs covering:
+- Gold Rush era origins
+- Peak/decline period
+- Modern revival
+- Notable milestones
+
+## Resources
+
+- [Regional Association](https://...)
+- Other relevant links
+
+---
+
+*Last updated: YYYY-MM-DD*
+```
+
+### Required Region Fields
+
+1. **Name** (H1 header)
+2. **Overview** (paragraph + table)
+3. **Climate** (basic viticulture context)
+4. **Signature Varietals** (what grows here)
+5. **Notable Wineries** (quick reference list)
+
+### Optional Region Sections
+
+- **AVAs** — Include only if region has sub-AVAs
+- **History** — Include for historically significant regions
+- **Resources** — Include if useful associations/links exist
+
+---
+
+## Winery File Format
+
+### File Location & Naming
+
+- Location: `regions/<county>/<winery-name>.md`
+- Naming: Lowercase, hyphenated (e.g., `boeger-winery.md`, `terre-rouge.md`)
+- Use common name, not corporate entity
+
+### Winery Template
 
 ```markdown
 # [Winery Name]
@@ -66,15 +164,15 @@ regions/
 
 ## Signature Wines
 
-Highlight 2-3 standout bottles.
+Highlight 2-3 standout bottles with brief tasting notes.
 
 ## Vineyards
 
-Estate vineyard details, soil types, exposures, notable blocks.
+Estate vineyard details: soil types, exposures, notable blocks, old-vine designations.
 
 ## History
 
-Brief history of the winery.
+Brief history of the winery — founding story, notable events, ownership changes.
 
 ## Notes
 
@@ -94,46 +192,49 @@ Personal tasting notes, visit experiences, recommendations.
 *Last updated: YYYY-MM-DD*
 ```
 
-## Required Fields
-
-At minimum, every winery file should have:
+### Required Winery Fields
 
 1. **Name** (H1 header)
 2. **Location** (city, county)
 3. **Contact** (at least website or phone)
 4. **Wines** (at least a partial list)
 
-## Optional Sections
+### Optional Winery Sections
 
-- Vineyards (for estate wineries)
-- History (for historically significant wineries)
-- Notes (personal observations)
-- Rating (subjective, can omit)
+- **Vineyards** — For estate wineries
+- **History** — For historically significant wineries
+- **Notes** — Personal observations
+- **Rating** — Subjective, can omit
 
-## Tags / Metadata
+### Metadata Tags
 
 For future searchability, consider including in the Overview table:
 
-- **Style:** Old World / New World / Natural / etc.
-- **Focus:** Zinfandel specialist / Rhône / Italian / etc.
-- **Price Range:** $ / $$ / $$$ / $$$$
-- **Tasting Fee:** $X (waived with purchase?)
+| Tag | Values |
+|-----|--------|
+| **Style** | Old World / New World / Natural / Minimal Intervention |
+| **Focus** | Zinfandel specialist / Rhône / Italian / Bordeaux / etc. |
+| **Price Range** | $ / $$ / $$$ / $$$$ |
+| **Tasting Fee** | $X (waived with purchase?) |
+| **Dog Friendly** | Yes / No |
+| **Picnic Area** | Yes / No |
 
-## Region Files
-
-Each region folder should have an `_index.md` with:
-
-- Brief region overview
-- AVA information (if applicable)
-- Map or geographic notes
-- List of wineries in the region
-
-Example: `regions/el-dorado/_index.md`
+---
 
 ## Conventions
 
+### Formatting
 - Use **bold** for wine names in lists
-- Use standard varietal spellings (Zinfandel, not zin)
+- Use standard varietal spellings (Zinfandel, not zin; Cabernet Sauvignon, not cab)
 - Include vintage years when known
+- Use proper case for AVA names
+
+### Status Notes
 - Note if a winery is closed, sold, or defunct
+- Note temporary closures or special conditions
 - Update "Last updated" when making changes
+
+### Links
+- Prefer HTTPS URLs
+- Link to official winery websites, not aggregators
+- Include social media only if particularly active/useful
