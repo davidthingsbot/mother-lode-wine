@@ -1,56 +1,55 @@
 # Nevada County
 
-> Mountain vineyards above the Yuba River
+> Historic Gold Rush towns meet pioneering winemakers
 
 ## Overview
 
-Nevada County sits high in the Sierra foothills, centered around the historic Gold Rush towns of Nevada City and Grass Valley. While smaller than neighboring wine regions, the county has a dedicated group of producers making high-quality wines at elevation.
+Nevada County offers a unique combination of Gold Rush history, Victorian architecture, and Sierra Foothills winemaking. Downtown Grass Valley and Nevada City feature walkable tasting room districts with multiple wineries within steps of each other.
 
 | Field | Value |
 |-------|-------|
-| **AVA** | Sierra Foothills (no sub-AVA) |
-| **Wineries** | 10–15 |
+| **AVA** | Sierra Foothills |
+| **Wineries** | ~12 |
 | **Elevation** | 1,500–3,000 ft |
-| **Key Towns** | Nevada City, Grass Valley, Penn Valley |
-
-## Geography
-
-Nevada County vineyards are generally planted at higher elevations than neighboring Placer County, benefiting from cooler temperatures and longer growing seasons. The terrain is mountainous with steep hillsides and narrow valleys.
+| **Key Towns** | Grass Valley, Nevada City, Penn Valley |
 
 ## Climate
 
-- **Days:** Warm summers
-- **Nights:** Cool (mountain influence)
-- **Diurnal swing:** 40–50°F
-- **Growing season:** 180–240 days
-- **Rainfall:** 40–60 inches annually (higher than other foothill counties)
-
-The higher elevation and rainfall distinguish Nevada County from lower foothill regions.
+- **Days:** Warm, Mediterranean
+- **Nights:** Cool mountain air
+- **Elevation:** Higher than most Sierra Foothills counties
 
 ## Signature Varietals
 
-- **Zinfandel**
-- **Cabernet Sauvignon**
-- **Syrah**
-- **Merlot**
-- **Cool-climate whites**
+- **Zinfandel** — Heritage grape
+- **Barbera** — Italian tradition
+- **Exotic crosses** — UC Davis varieties unique to the region
+- **Portuguese varieties** — Port grape cultivation
 
-## Notable Wineries
+## Wineries
 
-*See individual files for details*
+### Historic
 
-- Nevada City Winery
-- Pilot Peak Winery
-- Double Oak Vineyards
-- Szabo Vineyards
+- [Nevada City Winery](nevada-city-winery.md) — Oldest operating winery in the region (1980), 26 wines
 
-## History
+### Grass Valley / Nevada City
 
-Nevada City was among the winemaking centers documented by Leon Adams during the 1870s–1890s heyday. The region's high elevation and challenging terrain limited commercial viticulture, but a handful of dedicated producers have revived the tradition.
+- [Avanguardia Wines](avanguardia-wines.md) — "Varietal-free zone," exotic crosses
+- [Lucchesi Vineyards](lucchesi-vineyards.md) — 16 varietals including Portuguese Ports
+- [Sierra Starr Vineyard](sierra-starr.md) — Downtown tasting room
+- [Double Oak Vineyards](double-oak.md) — Blind Shady Road estate
+
+### Penn Valley
+
+- [Gray Pine Winery](gray-pine.md)
+
+## Downtown Tasting District
+
+Downtown Grass Valley has become a mecca for small wineries with five tasting rooms representing eight wineries. Visitors can walk between Avanguardia, Lucchesi, and Sierra Starr within steps of each other.
 
 ## Resources
 
-- [Northern Sierra Wine Country](https://northernsierrawine.com/)
+- [Go Nevada County](https://gonevadacounty.com/sierra-vintners-california-wine-trail/)
 
 ---
 

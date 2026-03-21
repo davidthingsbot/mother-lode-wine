@@ -1,57 +1,44 @@
 # Yuba County
 
-> Northern frontier of Sierra Foothills wine
+> Where the Sierras meet the Sacramento Valley
 
 ## Overview
 
-Yuba County marks the northern boundary of the Sierra Foothills AVA. A remote, mountainous region, it has a small wine imprint centered around the North Yuba AVA — the northernmost sub-appellation within the Sierra Foothills.
+Yuba County lies where the Sierra Nevada foothills meet the Sacramento Valley, offering both scenic wilderness and rich farmland. Winegrapes have been cultivated here since the 1840s — among the earliest wine cultivation in the Sierra Foothills.
 
 | Field | Value |
 |-------|-------|
-| **AVA** | North Yuba AVA (est. 1985) |
+| **AVA** | North Yuba |
 | **Wineries** | ~5 |
-| **Elevation** | 1,000–2,000 ft |
-| **Key Towns** | Oregon House, Dobbins, Brownsville |
-
-## North Yuba AVA
-
-- **Established:** 1985
-- **Area:** North-central Yuba County foothills
-- **Elevation:** 1,000–2,000 ft
-- **Characteristics:** Mountain terrain, granitic soils, significant diurnal temperature variation
-
-The North Yuba AVA was one of the first sub-appellations established within the Sierra Foothills region.
+| **Elevation** | 300–2,300 ft |
+| **Key Towns** | Marysville, Oregon House |
 
 ## Climate
 
-- **Days:** Warm summers
-- **Nights:** Cool mountain influence
-- **Diurnal swing:** 40–50°F
-- **Growing season:** 180–220 days
-- **Rainfall:** 35–50 inches annually
+- **Days:** Warm, valley-influenced
+- **Nights:** Cooling from Sierra elevation
+- **Range:** Valley floor to mountain vineyards
 
-## Signature Varietals
+## Wineries
 
-- **Cabernet Sauvignon**
-- **Merlot**
-- **Sauvignon Blanc**
-- **Zinfandel**
+- [Renaissance Vineyard & Winery](renaissance-vineyard.md) — Biodynamic pioneer since 1970s
+- [Clos Saron](clos-saron.md) — Natural wines
 
-## Notable Wineries
+### Additional Wineries
+- Naggiar Vineyards and Winery
+- Lucero Vineyards — Premium reds
 
-*See individual files for details*
+## The North Sierra Wine Trail
 
-- Renaissance Vineyard & Winery (primary North Yuba producer)
+Yuba County wineries are part of the North Sierra Wine Trail, connecting foothill wineries north of the traditional Mother Lode region.
 
 ## History
 
-Yuba County's viticulture was historically associated more with the Sacramento Valley than the Sierra Foothills. From the mid-1930s to the early 1980s, wine grapes were not cultivated in the foothills of Yuba County.
+Winegrapes have been cultivated in Yuba County since the 1840s, making this one of the earliest wine regions in the Sierra Foothills. The combination of valley floor and mountain terrain creates diverse growing conditions.
 
-The North Yuba AVA was established in 1985, recognizing the distinct growing conditions in the foothill region.
+## Resources
 
-## Notes
-
-Yuba County remains the least-developed wine region within the Sierra Foothills AVA, with only a handful of producers. Its remote location and mountainous terrain limit vineyard expansion.
+- [Discover California Wines - Yuba County](https://discovercaliforniawines.com/discover-california/sierra-foothills/yuba-county/)
 
 ---
 

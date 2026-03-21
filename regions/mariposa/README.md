@@ -1,56 +1,41 @@
 # Mariposa County
 
-> Gateway to Yosemite — the southernmost Sierra Foothills vineyards
+> Southern gateway to Yosemite — high-altitude wines
 
 ## Overview
 
-Mariposa County marks the southern boundary of the Sierra Foothills AVA. Best known as the gateway to Yosemite National Park, the county has a small but notable wine presence, including what may be the earliest documented vineyard planting in the Sierra Foothills.
+Mariposa County sits at the southern end of the Mother Lode and serves as a gateway to Yosemite National Park. A small but dedicated wine community has emerged, with vineyards at elevations ranging from 2,000 to 3,200 feet — among the highest in the Sierra Foothills.
 
 | Field | Value |
 |-------|-------|
-| **AVA** | Sierra Foothills (no sub-AVA) |
+| **AVA** | Sierra Foothills |
 | **Wineries** | ~5 |
-| **Elevation** | 1,500–3,500 ft |
-| **Key Towns** | Mariposa, Coarsegold, Midpines |
-
-## Geography
-
-Mariposa County vineyards are planted at the highest elevations within the Sierra Foothills AVA, some reaching 3,500 feet. The terrain is mountainous, with dramatic views of the Sierra Nevada.
+| **Elevation** | 2,000–3,200 ft |
+| **Key Towns** | Mariposa, Mount Bullion |
 
 ## Climate
 
-- **Days:** Warm to hot summers
-- **Nights:** Cool (high elevation)
-- **Diurnal swing:** 40–50°F
-- **Growing season:** 180–240 days
-- **Rainfall:** 30–40 inches annually
+- **Days:** Warm, mountain Mediterranean
+- **Nights:** Cool due to extreme elevation
+- **Soils:** Rocky hillside terrain
 
-The higher elevation results in cooler growing conditions than lower foothill counties.
+## Wineries
 
-## Signature Varietals
+- [Butterfly Creek Winery](butterfly-creek.md) — Oldest winery in Mariposa County
+- [Casto Oaks Fine Wine](casto-oaks.md) — Mount Bullion Vineyard, family winery
 
-- **Zinfandel**
-- **Cabernet Sauvignon**
-- **Merlot**
-- **Sangiovese**
+### Additional Wineries
+- Westbrook Wine Farm
+- Sierra Cider
+- The Local Grape — Wine bar and bottle shop
 
-## Notable Wineries
+## Unique Character
 
-*See individual files for details*
+The rocky hillside soils and extreme elevations (up to 3,200 ft) create growing conditions unlike anywhere else in California. These challenging conditions produce wines with distinctive mountain character.
 
-- Butterfly Creek Winery
-- Coyote Creek Winery
-- Gold Cliff Vineyards
+## Resources
 
-## History
-
-The first known grape planting in the Sierra Foothills may have occurred in the Coarsegold Gulch area of Mariposa County during the Gold Rush period, according to *California's Geographic Names: A Gazetteer*.
-
-Despite this early start, Mariposa County's remote location and challenging terrain limited commercial viticulture. Today, it remains the smallest wine-producing county within the Sierra Foothills AVA.
-
-## Notes
-
-Mariposa County's wine industry is oriented toward tourism, with many visitors stopping en route to Yosemite. The small number of producers offer intimate tasting experiences.
+- [Yosemite Mariposa](https://www.yosemite.com/)
 
 ---
 

@@ -1,55 +1,41 @@
 # Tuolumne County
 
-> Sonora, Columbia, and the southern Gold Country vineyards
+> Gateway to Yosemite — emerging wine region
 
 ## Overview
 
-Tuolumne County encompasses the southern reaches of the Mother Lode, centered around the historic Gold Rush towns of Sonora, Columbia, and Jamestown. The region has a modest but growing wine industry with a handful of dedicated producers.
+Tuolumne County is best known as the gateway to Yosemite National Park, but a small community of wineries is developing in the historic Gold Rush towns of Sonora and Jamestown. The Tuolumne County Craft Beverage Trail connects local wineries, cideries, and breweries.
 
 | Field | Value |
 |-------|-------|
-| **AVA** | Sierra Foothills (no sub-AVA) |
-| **Wineries** | 5–10 |
-| **Elevation** | 1,500–3,000 ft |
-| **Key Towns** | Sonora, Columbia, Jamestown, Groveland |
-
-## Geography
-
-Tuolumne County vineyards are planted in the western foothills, typically at elevations between 1,500 and 3,000 feet. The terrain is rugged, with steep canyons carved by the Tuolumne and Stanislaus rivers.
+| **AVA** | Sierra Foothills |
+| **Wineries** | ~8 |
+| **Elevation** | 1,500–2,500 ft |
+| **Key Towns** | Sonora, Jamestown, Columbia |
 
 ## Climate
 
-- **Days:** Hot summers (Region III)
-- **Nights:** Moderate cooling
-- **Diurnal swing:** 30–40°F
-- **Growing season:** 220–260 days
-- **Rainfall:** 25–40 inches annually
+- **Days:** Warm, Mediterranean
+- **Nights:** Cool mountain air
+- **Yosemite influence:** High-elevation microclimate
 
-## Signature Varietals
+## Wineries
 
-- **Zinfandel**
-- **Cabernet Sauvignon**
-- **Syrah**
-- **Tempranillo**
-- **Viognier**
+- [Inner Sanctum Cellars](inner-sanctum.md) — Downtown Jamestown, premium limited wines
+- [Gianelli Family Vineyard](gianelli-family.md) — Family estate in Sonora
 
-## Notable Wineries
+### Additional Wineries
+- Hurst Ranch
+- Ponsanarosa Vineyard — Curtis Creek Ranch, Sonora
+- Rodefer Vineyards — Springfield Road, Columbia
 
-*See individual files for details*
+## The Tuolumne County Craft Beverage Trail
 
-- Indigeny Reserve
-- Gianelli Vineyards
-- Inner Sanctum Cellars
-
-## History
-
-Tuolumne County was an active wine region during the Gold Rush era. Leon Adams documented wineries operating in Sonora, Columbia, and Jamestown during the 1870s–1890s. The county's vine count jumped from 9,000 in 1857 to 50,000 in 1858.
-
-The industry collapsed during Prohibition and has only partially recovered. Today, Tuolumne County remains one of the smaller wine-producing counties within the Sierra Foothills AVA.
+Visit Tuolumne County presents the Craft Beverage Trail — a mobile path to explore local wine, beer, cider, and craft cocktails from Sonora to Yosemite.
 
 ## Resources
 
-- [Tuolumne County Visitors Bureau](https://visittuolumne.com/)
+- [Visit Tuolumne County](https://www.visittuolumne.com/)
 
 ---
 
