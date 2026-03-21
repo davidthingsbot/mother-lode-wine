@@ -45,17 +45,57 @@ Amador County lies at the heart of the Mother Lode wine region and is home to so
 - **Sangiovese** — Italian varietals
 - **Sauvignon Blanc** — Crisp whites
 
-## Notable Wineries
+## Wineries
 
-*See individual files for details*
+### Historic / Must-Visit
 
-- Sobon Estate (D'Agostini, est. 1856)
-- Renwood Winery
-- Terre Rouge / Easton
-- Jeff Runquist Wines
-- Andis Wines
-- Amador Cellars
-- Vino Noceto
+- [Sobon Estate](sobon-estate.md) — Founded 1856, California Registered Landmark
+- [Terre Rouge & Easton](terre-rouge-easton.md) — Home of the first 100-point Sierra Foothills wine
+- [Vino Noceto](vino-noceto.md) — "California's Best Sangiovese" (8 different bottlings)
+
+### Premium Winemakers
+
+- [Jeff Runquist Wines](jeff-runquist-wines.md)
+- [Scott Harvey Wines](scott-harvey-wines.md)
+- [Casino Mine Ranch](casino-mine-ranch.md) — 100-point winemaker Andy Erickson
+
+### Destination Wineries
+
+- [Helwig Winery](helwig-winery.md) — Wine cave, restaurant, amphitheater
+- [Bella Grace Vineyards](bella-grace-vineyards.md) — Underground wine cave
+- [Dobra Zemlja](dobra-zemlja.md) — Amador's first wine cave
+- [Villa Toscano](villa-toscano.md) — Gardens and ponds
+
+### Italian-Style Specialists
+
+- [Avio Vineyards](avio-vineyards.md) — Tuscan farmstead
+- [Di Stasio Vineyards](di-stasio-vineyards.md) — Family since 1911
+- [D'Agostini Wines](dagostini-wines.md)
+- [Domenico Winery](domenico-winery.md) — Italian varietals
+
+### Family Wineries
+
+- [Amador Cellars](amador-cellars.md)
+- [Amador Heights Wine](amador-heights.md) — Certified organic
+- [Andis Wines](andis-wines.md)
+- [Belledor Vineyards](belledor-vineyards.md) — "Best Winery in Amador"
+- [C.G. Di Arie](cg-di-arie.md) — French, Portuguese, Spanish
+- [Convergence Vineyards](convergence-vineyards.md)
+- [Cooper Vineyards](cooper-vineyards.md) — 17 varietals
+- [Dillian Wines](dillian-wines.md) — 4th generation
+- [Drytown Cellars](drytown-cellars.md)
+- [End of Nowhere](end-of-nowhere.md) — Natural wines
+- [Iron Hub Winery](iron-hub-winery.md) — Father-son + spirits
+- [Karmère Vineyards](karmere-vineyards.md) — French château
+- [La Mesa Vineyards](la-mesa-vineyards.md) — 20+ varietals
+- [Linsteadt Family](linsteadt-family.md) — 3 generations
+- [Rancho Victoria](rancho-victoria.md) — 315 acres, concerts
+- [Rombauer (Amador)](rombauer-amador.md)
+- [Shenandoah Vineyards](shenandoah-vineyards.md)
+- [Tanis Vineyards](tanis-vineyards.md) — Pinotage, Primitivo
+- [TKC Vineyards](tkc-vineyards.md) — Since 1981
+- [Winetree Farm](winetree-farm.md) — Off-the-grid
+- [Yorba Wines](yorba-wines.md)
 
 ## Historic Vineyards
 
