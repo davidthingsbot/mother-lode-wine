@@ -1,0 +1,492 @@
+{
+  "success": [
+    {
+      "name": "amador-cellars",
+      "lat": 38.5262737,
+      "lon": -120.8157687
+    },
+    {
+      "name": "amador-heights",
+      "lat": 38.3705089,
+      "lon": -120.8130558
+    },
+    {
+      "name": "avio-vineyards",
+      "lat": 38.3959712,
+      "lon": -120.7591488
+    },
+    {
+      "name": "bella-grace-vineyards",
+      "lat": 38.45,
+      "lon": -120.78
+    },
+    {
+      "name": "belledor-vineyards",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "casino-mine-ranch",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "cg-di-arie",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "convergence-vineyards",
+      "lat": 38.4823604,
+      "lon": -120.8399223
+    },
+    {
+      "name": "dagostini-wines",
+      "lat": 37.3343678,
+      "lon": -79.9558617
+    },
+    {
+      "name": "di-stasio-vineyards",
+      "lat": 38.4823604,
+      "lon": -120.8399223
+    },
+    {
+      "name": "dillian-wines",
+      "lat": 55.7545183,
+      "lon": -4.2086363
+    },
+    {
+      "name": "domenico-winery",
+      "lat": 38.4811843,
+      "lon": -120.847692
+    },
+    {
+      "name": "drytown-cellars",
+      "lat": 38.4404,
+      "lon": -120.8517
+    },
+    {
+      "name": "end-of-nowhere",
+      "lat": 55.7545183,
+      "lon": -4.2086363
+    },
+    {
+      "name": "iron-hub-winery",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "karmere-vineyards",
+      "lat": 38.5287901,
+      "lon": -120.8010591
+    },
+    {
+      "name": "la-mesa-vineyards",
+      "lat": 38.4823604,
+      "lon": -120.8399223
+    },
+    {
+      "name": "linsteadt-family",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "rancho-victoria",
+      "lat": 55.7545183,
+      "lon": -4.2086363
+    },
+    {
+      "name": "rombauer-amador",
+      "lat": 38.4823604,
+      "lon": -120.8399223
+    },
+    {
+      "name": "scott-harvey-wines",
+      "lat": 38.45,
+      "lon": -120.78
+    },
+    {
+      "name": "shenandoah-vineyards",
+      "lat": 38.4823604,
+      "lon": -120.8399223
+    },
+    {
+      "name": "tanis-vineyards",
+      "lat": 38.4806,
+      "lon": -120.8462
+    },
+    {
+      "name": "tkc-vineyards",
+      "lat": 38.528503,
+      "lon": -120.8200208
+    },
+    {
+      "name": "winetree-farm",
+      "lat": 55.7545183,
+      "lon": -4.2086363
+    },
+    {
+      "name": "yorba-wines",
+      "lat": 55.7545183,
+      "lon": -4.2086363
+    },
+    {
+      "name": "above-the-rush",
+      "lat": 38.0909,
+      "lon": -120.4766
+    },
+    {
+      "name": "allegorie-wine",
+      "lat": 38.1378282,
+      "lon": -120.4647663
+    },
+    {
+      "name": "aloria-vineyards",
+      "lat": 38.0909,
+      "lon": -120.4766
+    },
+    {
+      "name": "boyle-macdonald",
+      "lat": 38.1377077,
+      "lon": -120.4653387
+    },
+    {
+      "name": "broll-mountain",
+      "lat": 38.1378079,
+      "lon": -120.4652986
+    },
+    {
+      "name": "frogs-tooth",
+      "lat": 38.15,
+      "lon": -120.5
+    },
+    {
+      "name": "hovey-winery",
+      "lat": 38.1369601,
+      "lon": -120.4576868
+    },
+    {
+      "name": "jazz-cellars",
+      "lat": 38.1376855,
+      "lon": -120.4635649
+    },
+    {
+      "name": "la-folia",
+      "lat": 38.1373126,
+      "lon": -120.4611256
+    },
+    {
+      "name": "milliaire-winery",
+      "lat": 38.1375887,
+      "lon": -120.461463
+    },
+    {
+      "name": "newsome-harlow",
+      "lat": 38.1374884,
+      "lon": -120.4638283
+    },
+    {
+      "name": "prospect-772",
+      "lat": 38.0374087,
+      "lon": -120.6249554
+    },
+    {
+      "name": "tanner-vineyards",
+      "lat": 38.1374,
+      "lon": -120.4539
+    },
+    {
+      "name": "val-du-vino",
+      "lat": 38.1380166,
+      "lon": -120.4693455
+    },
+    {
+      "name": "vina-moda",
+      "lat": 38.1371903,
+      "lon": -120.4591148
+    },
+    {
+      "name": "baiocchi-wines",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "boa-vista-orchards",
+      "lat": 38.7432729,
+      "lon": -120.7300778
+    },
+    {
+      "name": "bumgarner-winery",
+      "lat": 38.7,
+      "lon": -120.75
+    },
+    {
+      "name": "busby-cellars",
+      "lat": 38.6456754,
+      "lon": -120.6690276
+    },
+    {
+      "name": "cantiga-wineworks",
+      "lat": 38.6465034,
+      "lon": -120.6782856
+    },
+    {
+      "name": "charles-b-mitchell-vineyards",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "chateau-davell",
+      "lat": 38.7350273,
+      "lon": -120.7102566
+    },
+    {
+      "name": "colibri-ridge-winery",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "crystal-basin-cellars",
+      "lat": 38.7357,
+      "lon": -120.6714
+    },
+    {
+      "name": "david-girard-vineyards",
+      "lat": 38.7332409,
+      "lon": -120.8240326
+    },
+    {
+      "name": "e16-winery",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "element-79-vineyards",
+      "lat": 38.5995561,
+      "lon": -120.6814517
+    },
+    {
+      "name": "fenton-herriott-vineyards",
+      "lat": 38.7296,
+      "lon": -120.7986
+    },
+    {
+      "name": "findleton-estate-winery",
+      "lat": 38.7,
+      "lon": -120.75
+    },
+    {
+      "name": "gold-hill-vineyard",
+      "lat": 38.8004,
+      "lon": -120.8892
+    },
+    {
+      "name": "grace-patriot-wines",
+      "lat": 38.7317007,
+      "lon": -120.7860545
+    },
+    {
+      "name": "illuminare-estate",
+      "lat": 38.7388751,
+      "lon": -120.6805318
+    },
+    {
+      "name": "mastroserio-winery",
+      "lat": 38.5987,
+      "lon": -120.6088
+    },
+    {
+      "name": "mv-winery",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "narrow-gate-vineyards",
+      "lat": 38.6897604,
+      "lon": -120.6747164
+    },
+    {
+      "name": "oakstone-winery",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "rucksack-cellars",
+      "lat": 38.7317007,
+      "lon": -120.7860545
+    },
+    {
+      "name": "saluti-cellars",
+      "lat": 38.6475371,
+      "lon": -120.6739464
+    },
+    {
+      "name": "smokey-ridge-ranch",
+      "lat": 38.7357,
+      "lon": -120.6714
+    },
+    {
+      "name": "starfield-vineyards",
+      "lat": 38.7330117,
+      "lon": -120.758275
+    },
+    {
+      "name": "toogood-estate-winery",
+      "lat": 38.6176,
+      "lon": -120.6396
+    },
+    {
+      "name": "windwalker-vineyard",
+      "lat": 38.5996922,
+      "lon": -120.654972
+    },
+    {
+      "name": "wofford-acres-vineyards",
+      "lat": 38.771203,
+      "lon": -120.7167036
+    },
+    {
+      "name": "butterfly-creek",
+      "lat": 37.5,
+      "lon": -119.95
+    },
+    {
+      "name": "casto-oaks",
+      "lat": 37.5,
+      "lon": -119.95
+    },
+    {
+      "name": "avanguardia-wines",
+      "lat": 39.25,
+      "lon": -121.03
+    },
+    {
+      "name": "double-oak",
+      "lat": 39.2613,
+      "lon": -121.0177
+    },
+    {
+      "name": "gray-pine",
+      "lat": 39.2188,
+      "lon": -121.1769
+    },
+    {
+      "name": "lucchesi-vineyards",
+      "lat": 39.2191,
+      "lon": -121.061
+    },
+    {
+      "name": "sierra-starr",
+      "lat": 39.218204,
+      "lon": -121.062859
+    },
+    {
+      "name": "cante-ao-vinho",
+      "lat": 38.7910196,
+      "lon": -121.2388519
+    },
+    {
+      "name": "ciotti-cellars",
+      "lat": 38.8913,
+      "lon": -121.293
+    },
+    {
+      "name": "dono-dal-cielo",
+      "lat": 38.8759,
+      "lon": -121.1324
+    },
+    {
+      "name": "dora-dain",
+      "lat": 38.88,
+      "lon": -121.15
+    },
+    {
+      "name": "hill-top-oaks",
+      "lat": 38.8089386,
+      "lon": -121.152131
+    },
+    {
+      "name": "lone-buffalo",
+      "lat": 38.8966,
+      "lon": -121.0769
+    },
+    {
+      "name": "mount-saint-joseph",
+      "lat": 38.7404442,
+      "lon": -121.1693851
+    },
+    {
+      "name": "paza-estate",
+      "lat": 38.88,
+      "lon": -121.15
+    },
+    {
+      "name": "rancho-roble",
+      "lat": -12.0755883,
+      "lon": -77.0071223
+    },
+    {
+      "name": "rappe-family",
+      "lat": 38.8913,
+      "lon": -121.293
+    },
+    {
+      "name": "twin-rocks",
+      "lat": 38.88,
+      "lon": -121.15
+    },
+    {
+      "name": "gianelli-family",
+      "lat": 37.9842,
+      "lon": -120.3823
+    },
+    {
+      "name": "inner-sanctum",
+      "lat": 37.9529,
+      "lon": -120.4226
+    },
+    {
+      "name": "clos-saron",
+      "lat": 39.35,
+      "lon": -121.2
+    },
+    {
+      "name": "renaissance-vineyard",
+      "lat": 39.3562796,
+      "lon": -121.2791273
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    "andis-wines",
+    "cooper-vineyards",
+    "dobra-zemlja",
+    "helwig-winery",
+    "jeff-runquist-wines",
+    "sobon-estate",
+    "terre-rouge-easton",
+    "villa-toscano",
+    "vino-noceto",
+    "black-sheep-winery",
+    "brice-station",
+    "hatcher-winery",
+    "indian-rock-vineyards",
+    "ironstone-vineyards",
+    "stevenot-winery",
+    "boeger-winery",
+    "cedarville-vineyard",
+    "hollys-hill-vineyards",
+    "lava-cap-winery",
+    "madrona-vineyards",
+    "miraflores-winery",
+    "perry-creek-winery",
+    "sierra-vista-winery",
+    "skinner-vineyards",
+    "nevada-city-winery",
+    "casque-wines",
+    "mt-vernon",
+    "secret-ravine",
+    "vina-castellano",
+    "wise-villa"
+  ]
+}
