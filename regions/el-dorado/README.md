@@ -44,17 +44,56 @@ El Dorado County sits at the north end of California's famed Mother Lode — the
 - **Viognier** — Aromatic whites
 - **Tempranillo** — Spanish varietals gaining ground
 
-## Notable Wineries
+## Wineries
 
-*See individual files for details*
+### Pioneer Wineries (Historic Significance)
 
-- Boeger Winery
-- Lava Cap Winery
-- Miraflores Winery
-- Madrona Vineyards
-- Sierra Vista Vineyards
-- Skinner Vineyards
-- Cedarville Vineyard
+- [Boeger Winery](boeger-winery.md) — First post-Prohibition winery (1972)
+- [Sierra Vista Winery](sierra-vista-winery.md) — Rhône pioneer (1977)
+- [Madrona Vineyards](madrona-vineyards.md) — High-elevation pioneer (1973)
+- [Lava Cap Winery](lava-cap-winery.md) — Volcanic terroir (1981)
+
+### Fair Play AVA
+
+- [Baiocchi Wines](baiocchi-wines.md)
+- [Busby Cellars](busby-cellars.md)
+- [Cantiga Wineworks](cantiga-wineworks.md)
+- [Cedarville Vineyard](cedarville-vineyard.md)
+- [Charles B. Mitchell Vineyards](charles-b-mitchell-vineyards.md)
+- [Colibri Ridge Winery](colibri-ridge-winery.md)
+- [E16 Winery](e16-winery.md)
+- [Element 79 Vineyards](element-79-vineyards.md)
+- [Findleton Estate Winery](findleton-estate-winery.md)
+- [Mastroserio Winery](mastroserio-winery.md)
+- [MV Winery (Miller Vineyards)](mv-winery.md)
+- [Oakstone Winery](oakstone-winery.md)
+- [Perry Creek Winery](perry-creek-winery.md)
+- [Saluti Cellars](saluti-cellars.md)
+- [Skinner Vineyards](skinner-vineyards.md)
+- [Toogood Estate Winery](toogood-estate-winery.md)
+- [Windwalker Vineyard](windwalker-vineyard.md)
+
+### Apple Hill / Camino Area
+
+- [Boa Vista Orchards](boa-vista-orchards.md)
+- [Bumgarner Winery](bumgarner-winery.md)
+- [Château Davell](chateau-davell.md)
+- [Crystal Basin Cellars](crystal-basin-cellars.md)
+- [Illuminare Estate](illuminare-estate.md)
+- [Smokey Ridge Ranch](smokey-ridge-ranch.md)
+- [Starfield Vineyards](starfield-vineyards.md)
+- [Wofford Acres Vineyards](wofford-acres-vineyards.md)
+
+### Placerville / Pleasant Valley
+
+- [David Girard Vineyards](david-girard-vineyards.md)
+- [Fenton Herriott Vineyards](fenton-herriott-vineyards.md)
+- [Gold Hill Vineyard](gold-hill-vineyard.md)
+- [Grace Patriot Wines](grace-patriot-wines.md)
+- [Holly's Hill Vineyards](hollys-hill-vineyards.md)
+- [Miraflores Winery](miraflores-winery.md)
+- [Narrow Gate Vineyards](narrow-gate-vineyards.md)
+- [Rucksack Cellars](rucksack-cellars.md)
 
 ## History
 
