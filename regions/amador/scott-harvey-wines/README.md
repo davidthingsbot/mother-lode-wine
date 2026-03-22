@@ -45,6 +45,13 @@ Scott Harvey has produced wine from Amador County for more than **40 years**, ma
 
 With two tasting room locations in Amador County, visitors have options for experiencing Scott Harvey's portfolio. The winery offers an exceptional tasting experience for both newcomers and wine enthusiasts.
 
+### The Man Who Put Amador on the Map
+Scott's training began in Germany's **Rhineland Pfalz** region, followed by practical enology at Montevina in Amador County. In 1979, as Winemaker and General Manager of **Santino Winery**, he is credited with placing Amador County firmly on the California wine map.
+
+After Santino and Renwood, Scott became a partner, winemaker, and President of **Folie à Deux Winery** in Napa Valley, where he created **"Ménage à Trois"** — one of California's most recognized wine brands.
+
+Now back home in Amador, making wines "that talk to you, telling their story of place, vintage, and variety."
+
 ## Visited
 
 - [ ] Have not visited

@@ -51,6 +51,10 @@ Gourmet cheeses, charcuterie, and wine-friendly snacks available. Ask about the 
 
 The expansive vineyard views and modern facilities make Andis a standout destination.
 
+**Modern boutique approach:** Opened 2010, Andis works with some of the industry's most celebrated winemakers. All fruit is hand-sorted and fermented in small lots. The state-of-the-art facility sits on a 25-acre estate vineyard.
+
+Consistently scores **90+ points** and has earned placements in some of the finest restaurants. "Pure expression of the soil" is their guiding philosophy.
+
 ## Visited
 
 - [ ] Have not visited

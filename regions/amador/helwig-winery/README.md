@@ -53,7 +53,15 @@ The sweeping vistas overlooking lush vineyards, breathtaking views of the Sierra
 
 The Kitchen serves lunch Thursday through Monday — pair a meal with award-winning wines for the full experience.
 
-Helwig hosts concerts and events throughout the year in their amphitheater.
+### Recent Awards (2024 CA State Fair)
+All 14 wines entered earned medals:
+- **2024 MRV:** 99 points, Double Gold, Best of Region (White)
+- **2020 Barbera Cooper Ranch:** 99 points, Double Gold
+
+### Helwig LIVE Concert Series
+The terraced amphitheater hosts major concerts throughout summer — past acts include Orleans, The Babys, and Peter Beckett (Player). Get tickets early; shows sell out.
+
+**Note:** Facility is **21+ only** (including infants and toddlers). Plan accordingly.
 
 ## Visited
 

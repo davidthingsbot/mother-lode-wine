@@ -50,6 +50,11 @@ Avio embodies the spirit of northern Italy. The winemaking family in Avio, Italy
 
 The picturesque rustic courtyard and enchanting Carriage House lodging create a complete Italian wine country experience. Located just five minutes from downtown Sutter Creek, this destination beats most Amador and Placer county wineries for ambience and view.
 
+### Origin Story
+The owners came from Georgia "to escape the corporate world" and bought this old vineyard, converting the barn into a tasting room. The wife is from Avio, Italy, and as TripAdvisor reviewers note, "the setting and wines could be in Tuscany."
+
+**Motto: "Per L'Amore Di Famiglia"** (For the Love of Family) — multiple generations of winemaking tradition brought from northern Italy to California's Sierra Foothills.
+
 ## Visited
 
 - [ ] Have not visited

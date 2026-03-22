@@ -53,6 +53,15 @@ The wine cave offers an expansive variety of wines with panoramic views of the v
 
 The dual-location model allows visitors to choose their experience: rustic wine cave or historic downtown.
 
+**Named for two grandmothers** — this family-run operation achieved statewide recognition within a few years of opening.
+
+### Awards & Recognition
+- **2010 Old Vine Zinfandel:** Double Gold & Best Amador Zinfandel (2013 Amador County Fair)
+- **Barbera:** "Best of California" award, Double Gold 98 pts
+- **Grenache Blanc:** "Best of California" award
+
+The winery emphasizes sustainable winegrowing and handcrafted winemaking using delicate methods — "this is how we breathe life into our wines."
+
 ## Visited
 
 - [ ] Have not visited

@@ -41,6 +41,10 @@ Erika and Jerry Wright, owners of Villa Toscano, have always cherished this beau
 
 A leisurely afternoon is perfectly spent at this romantic winery, nestled among breathtaking gardens and tranquil ponds. Pairing a delicious lunch with a glass of wine creates a truly memorable experience.
 
+**Wedding destination:** One of Amador's premier wedding venues, with pricing starting around $12K for 50 guests.
+
+The Wrights also own Bella Piazza winery nearby (which was listed for $7.2M in 2022). Villa Toscano is their flagship property and personal passion project.
+
 ## Visited
 
 - [ ] Have not visited

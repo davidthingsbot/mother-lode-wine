@@ -42,6 +42,13 @@ For three generations, Linsteadt Vineyards has consistently grown the highest qu
 
 The Linsteadt motto: **"Come as a friend, leave as family, and see why you should drink Linsteadt instead."**
 
+### Family-Owned, Limited Production
+Three generations of growing the highest quality grapes, now finally bottling under their own label. Located in the Shenandoah Valley AVA.
+
+**Try the blend:** Estate red wine of Zinfandel and Barbera — "juicy and full with a range of stonefruit sweetness, balanced by just enough tart cherry to keep the finish crisp." Wine description: "In a Song: Nuthin but A 'G' Thang" — this winery has personality.
+
+**Hours:** Saturday & Sunday 11am-4pm. **Address:** 23200 Upton Road, Plymouth
+
 ## Visited
 
 - [ ] Have not visited

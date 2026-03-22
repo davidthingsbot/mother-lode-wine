@@ -55,6 +55,17 @@ The name "Noceto" means walnut grove in Italian — walnuts were a staple crop o
 
 If you love Sangiovese, this is the single most important stop in Amador County. With eight different expressions, visitors can explore the full range of what this varietal offers in Sierra Foothills terroir.
 
+**Founders Suzy and Jim Gullett** started Vino Noceto in 1987, making it one of the most important wineries in the history of California Sangiovese. They lived in Lafayette for 19 years before making the leap to full-time in 1995.
+
+**Origin story:** The Gulletts didn't believe Sangiovese could sell until Suzy set up a card table at Santino Winery during The Big Crush event — she sold case after case to complete strangers.
+
+### Sustainability Pioneer
+- **First winery in the Sierra Foothills** certified sustainable by California Sustainable Winegrowing Alliance
+- One of only three Sierra Foothill wineries recognized by California's Waste Reduction Awards Program (WRAP)
+- All vineyard, orchard, and winemaking byproducts are composted back into the soil
+
+They call themselves the "Nutty Noceto family" — come meet them.
+
 ## Visited
 
 - [ ] Have not visited

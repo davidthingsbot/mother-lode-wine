@@ -41,7 +41,16 @@ Owned and managed by **fourth-generation California brothers Jim and Rich Merrym
 
 ## Notes
 
-Estate-grown wines made by **100-point winemaker Andy Erickson & Jessica Tarpy** — a pedigree rarely found in Amador County. The Gold Rush history adds another layer to the experience.
+Estate-grown wines made by **100-point winemaker Andy Erickson & Jessica Tarpy Shaheen** — a pedigree rarely found in Amador County. The Gold Rush history adds another layer to the experience.
+
+### The Team
+**Andy Erickson** is legendary in California wine — with Jessica Tarpy and Annie Favia, he also runs the experimental label ROOM. Jessica calls the patchwork of grape varieties on the ranch a "gumbo pot" and brings thoughtful farming to harness the site's potential.
+
+**80+ years of history:** The Merryman family has transformed this century-old ranch (once mined for gold) for future generations. An unusual array of grapes grows here — a new history is being written.
+
+**Varietals include:** Vermentino, Barbera, Zinfandel, and other Mediterranean varieties thriving at elevation.
+
+**Address:** 10690 Shenandoah Road, Plymouth
 
 ## Visited
 

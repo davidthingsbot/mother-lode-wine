@@ -38,6 +38,13 @@ The charming outdoor deck and stone patio are shaded by a grand old cypress tree
 
 The perfect location to unwind, slow down, and start your week or weekend off right.
 
+### The Kraemer Family Story
+Bearing the legacy of **four generations of Yorba citrus growers in Southern California**, the Kraemer Family found a new home in the Sierra Foothills on a beautiful, secluded ranch in Amador County.
+
+**Class act:** TripAdvisor reviewers consistently praise the events — "all well-organized, relaxing and just so well done." The comfortable patio pairs well with edible treats created by Amador's local chefs.
+
+**Yorba Gallery:** Featured artists rotate every few months. Subscribe to their emails for artist receptions and new featured work.
+
 ## Visited
 
 - [ ] Have not visited

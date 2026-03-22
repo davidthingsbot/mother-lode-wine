@@ -42,6 +42,12 @@ Karmère Vineyards and Winery is located in the majestic Shenandoah Valley. The 
 
 Taste current popular releases as well as future releases straight from the barrel — a rare opportunity to preview wines before release.
 
+**Architecture standout:** The château is an Instagram favorite — TripAdvisor reviewers note it "evokes the look of an old French château" with beautiful gardens and grounds.
+
+Rooted in farming heritage and deep love for the land. The tasting room staff are consistently praised for their warmth and knowledge.
+
+Reservations required for groups of 10+.
+
 ## Visited
 
 - [ ] Have not visited

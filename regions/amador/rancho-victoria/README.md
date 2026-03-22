@@ -41,6 +41,13 @@ With 315 acres of countryside beauty and more than 100 acres of thriving vineyar
 
 Enjoy tastings in the rustic scale house turned tasting room, take in panoramic views, and join for live concerts and community events throughout the year.
 
+### Historic Scale House
+The tasting room is built where the old cattle scale house stood, and **still has the original scale with notes dating as far back as 1917**. Surrounding the tasting room are the vines of their Primitivo vineyard — a wine of togetherness.
+
+**Summer concerts** are a highlight — reviewers rave about the beautiful venue and the excellent bar service from Shannon, Victor, and John.
+
+**Address:** 16920 Greilich Road, Plymouth. Phone: (209) 210-3620
+
 ## Visited
 
 - [ ] Have not visited

@@ -43,6 +43,16 @@ Belledor Vineyards has been awarded the title of **"Best Winery in Amador"** by 
 
 A true oasis of serenity! The newly designed tasting room and patio feature a captivating lake view creating the perfect backdrop for an unforgettable wine experience.
 
+### Awards & Recognition (2022)
+- **"Best Winery in Amador"** — Sacramento Magazine
+- **"Best New Business"** — Ledger Dispatch
+
+Family-owned and operated, producing premium wines showcasing the unique terroir of the Sierra Foothills.
+
+**Estate varietals:** Barbera, Zinfandel, Sauvignon Blanc, Primitivo, Tempranillo, Verdelho and more — all estate-grown.
+
+**Address:** 13391 Shenandoah Road, Plymouth. Reservations through Tock for scenic wine tastings with stunning lake and vineyard views. 21+ only.
+
 ## Visited
 
 - [ ] Have not visited

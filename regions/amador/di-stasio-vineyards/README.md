@@ -49,6 +49,15 @@ Beyond wine, Di Stasio offers imported Italian gourmet foods and artisan ceramic
 
 Private celebrations and corporate events are accommodated at this historic property.
 
+### The Experience
+The tasting room is inspired by the clean lines of **Puglia region in Southern Italy**, with beautiful views of the vineyards. **Michelle's collection of regional Italian ceramics** enhances the environment with beauty and color — all available for purchase.
+
+**Food offerings:** Italian-inspired menu from the kitchen, with seasonal specials including pasta and wood-fired pizza.
+
+**Wine Portfolio:** Old Vine Zinfandel, Estate Barbera, Syrah, Sauvignon Blanc, Colline red blend, and Riserva bottlings.
+
+**Address:** 10788 Shenandoah Road (note: different from the 11925 Shenandoah Rd shown elsewhere)
+
 ## Visited
 
 - [ ] Have not visited

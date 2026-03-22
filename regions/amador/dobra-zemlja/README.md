@@ -46,6 +46,13 @@ The name "Dobra Zemlja" means "good earth" in Croatian (pronounced Doh-bra Zem-y
 
 Pack a picnic lunch and come taste in Amador County's first wine cave. The welcoming atmosphere and bold wines make this a standout destination for those who appreciate big reds.
 
+### Winemaking Philosophy
+Founded in 1995 by **Milan and Victoria Matulich**, Dobra Zemlja produces hearty, **unfiltered and unfined wines using native yeast only**. The tasting room is literally dug into a hillside as a wine cave — the first in Amador County.
+
+**Varietals:** Viognier, Zinfandel, and the bold reds this area is famous for.
+
+The Croatian heritage (Milan's family roots) informs everything — "good earth" (dobra zemlja) isn't just a name, it's a philosophy of letting the land speak.
+
 ## Visited
 
 - [ ] Have not visited

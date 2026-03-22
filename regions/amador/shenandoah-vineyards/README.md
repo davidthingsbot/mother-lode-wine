@@ -43,6 +43,14 @@ The tasting room features knowledgeable, friendly staff and an **art gallery** w
 
 The picnic area offers breathtaking views of the surrounding vineyards — perfect for an afternoon with a bottle.
 
+**Location advantage:** Closer to Plymouth than sister property Sobon Estate, sitting atop a hill surrounded by sloping vineyards with impressive valley views. The art gallery is a main draw for many visitors.
+
+### Technical Excellence
+- Majority estate-grown and sustainably farmed
+- Choice micro-climates and soils with carefully selected clones
+- **Highest elevations in the Shenandoah Valley**
+- State-of-the-art winemaking with 60+ years combined expertise
+
 ## Visited
 
 - [ ] Have not visited

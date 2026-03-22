@@ -47,6 +47,13 @@ He realized his childhood home in Amador County was the perfect place. Thanks to
 
 This is natural winemaking with a clear point of view — proving that exceptional wine can come without intervention or inflated prices.
 
+### Amador's Only Natural Winery
+Chris Walsh is **the first to bring natural wine to Amador County** — or rather, bring it back, considering the area's longer winemaking history before industrial methods. Featured in **Eater SF** for pioneering this approach in the Sierra Foothills.
+
+**Method:** Native yeasts only, single-vineyard expressions. No chemicals, no coloring, no filtering. Old vine fruit from historic Amador vineyards.
+
+**Standout:** Their **carbonic Zinfandel** from old vines — "a fresh take on a classic grape, bridging tradition and innovation" (Bowler Wine). Also makes skin-contact whites like "Little Faith."
+
 ## Visited
 
 - [ ] Have not visited

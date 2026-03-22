@@ -46,6 +46,13 @@ The home winemaking ventures became more and more successful over the years. In 
 
 Deep Amador roots — from 1917 land purchase to 1972 Zinfandel planting to 2003 winery opening. This is generational winemaking.
 
+### D'Agostini Connection
+Tom's stepfather was **Mike D'Agostini** of the historic D'Agostini Winery (now Sobon Estate). Tom learned grape growing and winemaking at a young age working at that legendary property.
+
+**Try Tre Fratelli Zinfandel** — made from those original 1972 vines planted by the three brothers. Also notable: Barbera with blackberry, vanilla, and anise notes, and Petite Sirah.
+
+**TripAdvisor reviewer:** "No corporate stuffiness here — this is a family atmosphere where everyone feels at home. The staff is amazing, so friendly and inviting."
+
 ## Visited
 
 - [ ] Have not visited

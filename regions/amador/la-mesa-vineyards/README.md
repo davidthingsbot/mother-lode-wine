@@ -51,6 +51,12 @@ The newly opened Bistro allows guests to dine while enjoying personalized flight
 
 Two locations: the estate vineyard in Shenandoah Valley and historic downtown Sutter Creek.
 
+### Two Locations
+- **Plymouth (main):** Modern tasting room at 13200 Shenandoah Road with terrace and stunning vineyard views. Thu-Sun 11am-5pm.
+- **Sutter Creek:** Historic downtown location, 25 minutes south
+
+Rare **Rhône and Italian varietals from high-altitude vineyard**. Former Le Mulet Rouge wine club members are welcomed — the wines have received plenty of acclaim and awards and keep getting better.
+
 ## Visited
 
 - [ ] Have not visited

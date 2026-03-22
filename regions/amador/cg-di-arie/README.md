@@ -49,6 +49,13 @@ Famous for French, Portuguese, and Spanish varietals featuring elegant, artistic
 
 The outdoor tasting room sits in a romantic open-air courtyard shaded by majestic oak trees. An amphitheater hosts cultural events throughout the year.
 
+### The Story
+Founded in 2000 by **Chaim and Elisheva Gur-Arieh**, winemaker Chaim hand-crafts elegant wines specializing in red varietals and blends. "C.G." reflects Chaim's initials.
+
+**Live music on weekends** — the welcoming tasting room atmosphere is designed for enjoying wine with friends. Award-winning wines at affordable prices, with wine club members receiving complimentary tastings and discounts.
+
+Premium quality wines crafted with elegance and balance, reflecting varietal identity enhanced by oak.
+
 ## Visited
 
 - [ ] Have not visited

@@ -49,6 +49,19 @@ Established in 1981, TKC Vineyards is a small family winery committed to the pro
 
 Specialties of the house include Zinfandel, Mourvèdre, Cabernet Sauvignon, Syrah, Port, and some wonderful blends.
 
+### The Name
+**TKC** stands for the founders' three children: **Tierre, Karina, and C**... — a family name for a family winery.
+
+**Origin story:** They built the winery in 1981 and made their first commercial Zinfandel vintage while still keeping day jobs — commuting 460 miles one way each month to work at the winery. "Vacation, they called it."
+
+### Planting Timeline
+- **1981:** Zinfandel (flagship, still going strong)
+- **1993:** Mourvèdre
+- **1997:** Cabernet Sauvignon (clone 7)
+- **2000:** Syrah Noir
+
+**Try:** The Syrah Port — boutique production from Syrah Noir.
+
 ## Visited
 
 - [ ] Have not visited

@@ -53,6 +53,10 @@ Amador Cellars is a family-run winery showcasing Mediterranean wines in beautifu
 
 The winery features Tuscan architecture and a barn wedding venue amid the vineyards. Award-winning wines with friendly hospitality.
 
+**TripAdvisor Travelers' Choice** award recipient — consistently ranked in top 10% of attractions.
+
+Family-owned and operated, producing estate-grown Zinfandel alongside Italian, Spanish, and Rhône Valley varietals. The combination of Mediterranean wine styles in Tuscan-inspired architecture creates an authentic experience.
+
 ## Visited
 
 - [ ] Have not visited

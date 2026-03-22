@@ -39,7 +39,7 @@
 - Red blends
 
 ### Spirits
-- Distilled from wines
+- **Handcrafted Brandy** — Iron Hub Spirits brand launched 2025, continuing a centuries-old wine country tradition
 
 ## History
 

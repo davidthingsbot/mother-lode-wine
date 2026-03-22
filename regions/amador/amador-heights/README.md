@@ -49,6 +49,15 @@ The dual-label approach allows for both approachable wines (Vino Tahoe) and puri
 
 The large picnic area with expansive views makes this ideal for extended visits.
 
+### Amador's Only Certified Organic Vineyard
+The **only CCOF certified organic estate vineyard in Amador County** — also the newest micro-winery in the Sierra Foothills.
+
+**Awards:** Best of Class and multiple awards at SF Chronicle, Sunset International, and Orange County wine competitions.
+
+**Summer Concert Series** features country music, soul food, award-winning wine, and gorgeous sunsets in the organic vineyard. Tickets required.
+
+The Vino Tahoe label is served at homeowner clubs in major Sierra Nevada ski resorts — bringing foothill wine to the mountains.
+
 ## Visited
 
 - [ ] Have not visited

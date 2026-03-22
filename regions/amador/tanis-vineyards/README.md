@@ -51,6 +51,11 @@ Come enjoy wines and stimulating conversation. And if you're not on your way yet
 
 The rare Pinotage varietal makes this a unique destination for wine adventurers.
 
+### Micro-Batch Production
+Sometimes producing as few as **2 barrels** of a given varietal per year. Wine club members are guaranteed at least one bottle of each rare release — Primitivo, Barbera, Sangiovese, Pinotage, Cabernet Franc, Zinfandel, Tempranillo, Petite Sirah, and more.
+
+**Community spirit:** December food drive participants receive free TANIS wine glasses. This is a winery that cares about the community beyond just wine.
+
 ## Visited
 
 - [ ] Have not visited

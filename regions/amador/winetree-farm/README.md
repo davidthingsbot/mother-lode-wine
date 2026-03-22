@@ -47,6 +47,12 @@ Everything is done by Mom "Corinne" and Son "Nic" — a true family operation.
 
 Visitors are encouraged to "bring your people-friendly animals" — this is one of the most welcoming and authentic farm experiences in Amador County.
 
+**Rhône specialists** — the portfolio focuses on Syrah, Grenache, and Mourvèdre, with single varietals carrying the 'Corinne' brand named for mom.
+
+**Best-kept secret:** Reviewers consistently note these are some of the most affordable wines in the Amador/Plymouth area without sacrificing quality. "Slightly out of the way but well worth the visit."
+
+Also has a tasting room in downtown Amador City (Fri-Sun 12-5pm) for those who can't make it to the farm.
+
 ## Visited
 
 - [ ] Have not visited

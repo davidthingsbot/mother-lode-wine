@@ -56,6 +56,13 @@ The Sobon Family is dedicated to making wines that express the true character of
 
 The historic D'Agostini Winery property offers an experience beyond wine tasting — visitors can explore the museum and connect with California's earliest wine heritage.
 
+### California's Oldest Continuously Operating Winery
+Started in 1856 by **Adam Uhlinger, a Swiss immigrant** who brought grapevines from Europe and is credited as one of the people who introduced Zinfandel to America. This makes Sobon Estate the **longest continuous producer of Zinfandel in California**.
+
+After Uhlinger's death in 1880, his sons ran the winery until 1911 when Enrico D'Agostini purchased the property and its 125 acres of vineyards.
+
+The museum gives visitors a look at winemaking and life dating back to 1856 — essential visiting for anyone interested in California wine history.
+
 ## Visited
 
 - [ ] Have not visited

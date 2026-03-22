@@ -51,7 +51,12 @@ The brand-new 5,100 sq ft air-conditioned tasting room and event venue opened Au
 
 Nestled on 100 acres with stunning views of an 18-acre lake, Domenico is a picturesque hidden gem.
 
-Visit the JH Bonham Kiln from 1859 and take in the beauty of the lake. Sip, Savor, Experience all Domenico has to offer.
+### Historic Landmark
+The **J.H. Bonham Kiln** dates to 1859 — just five years after Amador became a California county. It was used to produce plaster and mortar from native limestone for constructing buildings in Sutter Creek and Jackson.
+
+The new venue (opened August 2024) is actually 6,500 sq ft with 400-person capacity. The first floor features a farmhouse vibe with modern touches — stone, whitewashed wood, brass, a 9-ft fireplace, and Brazilian Quartzite counters.
+
+Picnic baskets can be ordered in advance for lunch by the lake. Their Bay Area location in San Carlos has operated since 2004, featuring an Osteria (Italian restaurant) alongside the tasting room.
 
 ## Visited
 

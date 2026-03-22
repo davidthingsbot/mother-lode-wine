@@ -46,6 +46,17 @@ Surrounded by lush landscaping, the Tasting Room features spacious indoor and ou
 
 This is a rare opportunity to taste the full Rombauer portfolio alongside locally-sourced Sierra Foothills wines in a beautiful setting.
 
+### What's Available
+- **Chardonnay** — Their iconic, buttery Chardonnay that made them famous
+- **Semillon**
+- **Barbera** — Locally sourced Sierra Foothills fruit
+- **Old Vine Zinfandel** — Local fruit
+- Red blends and spirits distilled from their wines
+
+**Experiences:** Educational tours of the Plymouth winery followed by seated Wine and Cheese Pairings. Tours start in the display vineyard, learning how they grow their grapes.
+
+Pet and family-friendly with expansive outdoor picnic space.
+
 ## Visited
 
 - [ ] Have not visited

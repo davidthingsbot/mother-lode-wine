@@ -51,6 +51,11 @@ As Jeff says: "Once I release a new vintage I rarely return to the previous year
 
 This is winemaking with a clear point of view — if you appreciate approachable yet age-worthy wines with true varietal character, Jeff Runquist delivers.
 
+### An "Overnight Success" 37+ Years in the Making
+Jeff began in 1977 as an intern with Paul Masson while studying enology at UC Davis. After graduating, he worked at Montevina in Amador County and was promoted to winemaker in 1982.
+
+After stints at Napa Valley Cooperative Winery (1987-1990) and J. Lohr in San Jose, it became clear he needed to make wine his own way. Now known for "unique varietals from California's premier appellations" — for adventurous wine drinkers looking to explore the diversity of the wine world.
+
 ## Visited
 
 - [ ] Have not visited
