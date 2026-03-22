@@ -2,6 +2,12 @@
 
 > *Primitivo, Pinotage, Barbera and "we have chocolates!"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

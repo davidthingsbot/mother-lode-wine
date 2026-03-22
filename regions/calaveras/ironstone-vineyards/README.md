@@ -2,6 +2,12 @@
 
 > *Premier destination with 44-pound gold nugget and summer concerts*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

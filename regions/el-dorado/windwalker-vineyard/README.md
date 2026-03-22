@@ -2,6 +2,12 @@
 
 > *From home winemakers to award-winning vintners*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

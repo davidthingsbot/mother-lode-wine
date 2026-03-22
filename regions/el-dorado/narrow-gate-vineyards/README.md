@@ -2,6 +2,12 @@
 
 > *Demeter Certified Biodynamic® wines in a candle-lit cellar*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

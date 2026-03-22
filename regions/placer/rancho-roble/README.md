@@ -2,6 +2,12 @@
 
 > *Deep roots — Syrah since 1999, Barbera since 2000*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

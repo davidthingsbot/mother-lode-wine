@@ -2,6 +2,12 @@
 
 > *"Living with purpose" — Small-lot expressions of passion*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

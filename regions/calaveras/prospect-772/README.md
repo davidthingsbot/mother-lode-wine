@@ -2,6 +2,12 @@
 
 > *25-acre estate with Wine Spectator ratings and live music*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

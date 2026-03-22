@@ -2,6 +2,12 @@
 
 > *Balanced wines with zest and vibrant flavors*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

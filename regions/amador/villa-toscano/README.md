@@ -2,6 +2,12 @@
 
 > *Romantic winery with gardens and tranquil ponds*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Family estate on Avenida Del Sol*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

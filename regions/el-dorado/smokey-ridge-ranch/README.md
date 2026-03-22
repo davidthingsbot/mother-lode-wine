@@ -2,6 +2,12 @@
 
 > *Apple Hill farmstead and boutique winery with 17 apple varieties*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

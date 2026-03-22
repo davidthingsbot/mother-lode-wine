@@ -2,6 +2,12 @@
 
 > *"California's Best Sangiovese" for over three decades*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

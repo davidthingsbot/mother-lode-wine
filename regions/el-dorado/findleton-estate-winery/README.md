@@ -2,6 +2,12 @@
 
 > *"Best Kept Secret in El Dorado County" with 15+ varietals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

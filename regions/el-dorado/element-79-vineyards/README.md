@@ -2,6 +2,12 @@
 
 > *"A country club for wine drinkers" in Gold Country*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *"A varietal-free zone" — 20+ exotic crosses and rare varietals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

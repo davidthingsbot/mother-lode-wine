@@ -2,6 +2,12 @@
 
 > *100-acre estate with 18-acre lake and new 5,100 sq ft tasting room*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

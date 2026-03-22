@@ -2,6 +2,12 @@
 
 > *High-elevation pioneers since 1973*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

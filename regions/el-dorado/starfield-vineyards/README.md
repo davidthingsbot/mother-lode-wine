@@ -2,6 +2,12 @@
 
 > *Third-generation grower with 17 varieties on 31 estate acres*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Premium wines since 1981*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

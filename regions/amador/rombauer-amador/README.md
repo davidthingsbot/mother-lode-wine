@@ -2,6 +2,12 @@
 
 > *Legendary Napa producer's Sierra Foothills outpost*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

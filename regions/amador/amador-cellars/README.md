@@ -2,6 +2,12 @@
 
 > *Mediterranean wines in Tuscan architecture*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

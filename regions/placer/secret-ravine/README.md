@@ -2,6 +2,12 @@
 
 > *Family-owned since 1998 with rare Italian varietals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

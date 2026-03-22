@@ -2,6 +2,12 @@
 
 > *Family-friendly Apple Hill destination with 20+ varieties*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

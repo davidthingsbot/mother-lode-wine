@@ -2,6 +2,12 @@
 
 > *Bordeaux varietals with evening hours and live music*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Complex yet infinitely drinkable wines from Placerville*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

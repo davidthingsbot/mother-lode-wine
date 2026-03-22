@@ -2,6 +2,12 @@
 
 > *Gold Rush winemaking heritage on the Placer Wine Trail*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

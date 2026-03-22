@@ -2,6 +2,12 @@
 
 > *"Feel a world away from the busyness of life"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Estate wines from Blind Shady Road*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

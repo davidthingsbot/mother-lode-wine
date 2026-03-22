@@ -2,6 +2,12 @@
 
 > *Classic Tuscan farmstead experience with Italian-style varietals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

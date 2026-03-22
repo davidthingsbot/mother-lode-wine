@@ -2,6 +2,12 @@
 
 > *Handcrafted big wines from ridgetop red soils since 2004*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

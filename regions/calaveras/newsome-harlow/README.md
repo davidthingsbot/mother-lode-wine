@@ -2,6 +2,12 @@
 
 > *Locally owned since 2000 — "Consistently delicious, hand-crafted"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

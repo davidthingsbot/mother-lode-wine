@@ -2,6 +2,12 @@
 
 > *"Feel like family on your first visit"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *315 acres of countryside beauty with live concerts*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

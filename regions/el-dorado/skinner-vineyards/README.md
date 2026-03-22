@@ -2,6 +2,12 @@
 
 > *A family legacy revived — from 1861 to today*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Three decades of Sierra Foothills winemaking heritage*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

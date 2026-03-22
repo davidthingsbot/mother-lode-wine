@@ -2,6 +2,12 @@
 
 > *Gold Medal winners with obscure varietals under Obscurity Cellars*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Award-winning wines with serene pond — "don't forget to feed the fish!"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

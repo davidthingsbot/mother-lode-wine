@@ -2,6 +2,12 @@
 
 > *Home of the elusive ZinMan*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

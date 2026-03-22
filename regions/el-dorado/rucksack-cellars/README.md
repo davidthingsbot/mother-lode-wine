@@ -2,6 +2,12 @@
 
 > *Outdoor tasting concept in the heart of El Dorado vineyards*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

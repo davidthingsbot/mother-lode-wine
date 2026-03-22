@@ -2,6 +2,12 @@
 
 > *"A winery to watch" — Wine Spectator*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

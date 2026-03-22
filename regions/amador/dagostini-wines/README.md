@@ -2,6 +2,12 @@
 
 > *Soft, simple, and affordable Italian-style wines*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

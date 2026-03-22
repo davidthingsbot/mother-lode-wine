@@ -2,6 +2,12 @@
 
 > *Organic soil and Sierra breezes since 1965*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

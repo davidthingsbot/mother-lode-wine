@@ -2,6 +2,12 @@
 
 > *Handcrafted, estate-grown, organically farmed*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Grand cypress tree, stone patio, and perfect weekend starts*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

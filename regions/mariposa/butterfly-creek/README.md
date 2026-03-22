@@ -2,6 +2,12 @@
 
 > *Oldest winery in Mariposa County*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

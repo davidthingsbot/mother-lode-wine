@@ -2,6 +2,12 @@
 
 > *"Big Amador Reds, No Lightweights" — First wine cave in the county*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

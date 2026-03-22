@@ -2,6 +2,12 @@
 
 > *Sierra Foothills family since the mid-1800s*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

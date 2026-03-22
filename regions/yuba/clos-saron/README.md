@@ -2,6 +2,12 @@
 
 > *Natural wines from the Sierra Foothills*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

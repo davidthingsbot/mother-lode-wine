@@ -2,6 +2,12 @@
 
 > *Downtown Grass Valley tasting room*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

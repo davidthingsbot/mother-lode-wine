@@ -2,6 +2,12 @@
 
 > *17 varietals under four daughters' stewardship*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

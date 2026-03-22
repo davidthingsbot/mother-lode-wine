@@ -2,6 +2,12 @@
 
 > *Romantic B&B inn and vineyard wedding venue*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

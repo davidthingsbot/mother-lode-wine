@@ -2,6 +2,12 @@
 
 > *Estate vineyards in Drytown and El Dorado*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

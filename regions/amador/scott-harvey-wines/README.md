@@ -2,6 +2,12 @@
 
 > *40+ years of Amador winemaking with European training*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

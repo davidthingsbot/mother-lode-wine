@@ -2,6 +2,12 @@
 
 > *Stone cave tasting room amid pristine vineyards*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

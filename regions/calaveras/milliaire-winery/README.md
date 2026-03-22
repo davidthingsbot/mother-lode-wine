@@ -2,6 +2,12 @@
 
 > *Amazing selection from Alicante to Zinfandel in refurbished gas station*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *15 varietals with wine garden in downtown Murphys*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

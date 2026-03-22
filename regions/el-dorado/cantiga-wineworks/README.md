@@ -2,6 +2,12 @@
 
 > *Classic-style wines using non-malolactic fermentation*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

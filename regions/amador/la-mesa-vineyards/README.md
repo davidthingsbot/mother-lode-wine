@@ -2,6 +2,12 @@
 
 > *20+ unique wines with breathtaking Sierra views*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

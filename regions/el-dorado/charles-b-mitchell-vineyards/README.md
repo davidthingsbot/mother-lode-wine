@@ -2,6 +2,12 @@
 
 > *The "Emperor of Fair Play" — Zinfandel specialists*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

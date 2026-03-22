@@ -2,6 +2,12 @@
 
 > *French, Portuguese, and Spanish varietals in an open-air courtyard*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

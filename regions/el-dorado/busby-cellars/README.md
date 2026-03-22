@@ -2,6 +2,12 @@
 
 > *Small production family winery with on-site lodging*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

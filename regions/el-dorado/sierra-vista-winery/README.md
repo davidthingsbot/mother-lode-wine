@@ -2,6 +2,12 @@
 
 > *Rhône varietal pioneer — second oldest vineyard in El Dorado County*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Oldest operating winery in the Sierra Foothills (since 1980)*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

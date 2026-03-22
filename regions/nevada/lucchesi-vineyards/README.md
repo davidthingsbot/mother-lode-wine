@@ -2,6 +2,12 @@
 
 > *20-acre estate with 16 varietals including Portuguese Ports*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

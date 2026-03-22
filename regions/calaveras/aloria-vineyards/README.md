@@ -2,6 +2,12 @@
 
 > *Estate vineyard with reservation-only vineyard tastings*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

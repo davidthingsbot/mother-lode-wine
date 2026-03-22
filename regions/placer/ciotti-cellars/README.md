@@ -2,6 +2,12 @@
 
 > *Small lots of ultra-premium wines*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Off-the-grid, animal-friendly, mom-and-son operation*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

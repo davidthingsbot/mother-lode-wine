@@ -2,6 +2,12 @@
 
 > *Home of the Sierra Foothills' first 100-point wine*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

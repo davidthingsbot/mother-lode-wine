@@ -2,6 +2,12 @@
 
 > *Home of School Street Wines — Continuing the Chatom Legacy*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

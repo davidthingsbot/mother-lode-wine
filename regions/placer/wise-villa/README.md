@@ -2,6 +2,12 @@
 
 > *"Golden State Winery of the Year 2015" with full-service Tuscan bistro*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

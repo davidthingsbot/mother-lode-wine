@@ -2,6 +2,12 @@
 
 > *Italian varietals "amid the madness" — hats welcome!*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

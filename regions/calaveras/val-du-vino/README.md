@@ -2,6 +2,12 @@
 
 > *Only working winery on Main Street — Rhône and Spanish varietals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

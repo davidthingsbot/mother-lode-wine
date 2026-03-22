@@ -2,6 +2,12 @@
 
 > *Fourth-generation Amador farmer continuing his father's legacy*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

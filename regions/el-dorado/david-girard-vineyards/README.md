@@ -2,6 +2,12 @@
 
 > *Rhône-inspired wines one mile from Sutter's Mill*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

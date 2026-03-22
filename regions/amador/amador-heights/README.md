@@ -2,6 +2,12 @@
 
 > *Certified organic vineyard with Vino Tahoe and Pansaré labels*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

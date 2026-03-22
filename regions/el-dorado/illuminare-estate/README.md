@@ -2,6 +2,12 @@
 
 > *Frank Herbert Memorial Award winner for best Zinfandel*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

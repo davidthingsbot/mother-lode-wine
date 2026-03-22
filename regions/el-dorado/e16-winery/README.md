@@ -2,6 +2,12 @@
 
 > *Russian River Pinot Noir meets Fair Play Rhône in a hillside cavern*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

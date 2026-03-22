@@ -2,6 +2,12 @@
 
 > *Small family winery high on a Fair Play ridgetop*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

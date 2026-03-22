@@ -2,6 +2,12 @@
 
 > *"Best Winery in Amador" — Sacramento Magazine*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

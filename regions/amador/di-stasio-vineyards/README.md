@@ -2,6 +2,12 @@
 
 > *Italian roots with sustainable farming since 1911*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

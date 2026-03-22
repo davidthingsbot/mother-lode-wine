@@ -2,6 +2,12 @@
 
 > *20 years of Murphys winemaking with rooftop live music*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

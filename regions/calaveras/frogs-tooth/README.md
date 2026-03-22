@@ -2,6 +2,12 @@
 
 > *Hand-crafted small-batch wines since 1999*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

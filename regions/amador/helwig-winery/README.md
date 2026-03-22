@@ -2,6 +2,12 @@
 
 > *Sweeping Sierra views, wine cave, and full kitchen*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

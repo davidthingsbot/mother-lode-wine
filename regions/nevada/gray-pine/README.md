@@ -2,6 +2,12 @@
 
 > *Penn Valley estate winery*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Small-lot mountain Cabernet from El Dorado*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

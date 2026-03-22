@@ -2,6 +2,12 @@
 
 > *20 years of winemaking experience in beautiful stone tasting room*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

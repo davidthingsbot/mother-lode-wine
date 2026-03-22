@@ -2,6 +2,12 @@
 
 > *160-year-old apothecary building with private Fresco lounge*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

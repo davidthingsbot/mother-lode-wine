@@ -2,6 +2,12 @@
 
 > *Modern tasting room with expansive vineyard views and bocce*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

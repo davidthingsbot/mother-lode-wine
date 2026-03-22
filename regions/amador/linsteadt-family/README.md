@@ -2,6 +2,12 @@
 
 > *"Come as a friend, leave as family"*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

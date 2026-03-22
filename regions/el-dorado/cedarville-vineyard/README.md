@@ -2,6 +2,12 @@
 
 > *UC Davis-trained winemakers crafting organic Rhône wines*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

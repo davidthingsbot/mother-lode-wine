@@ -2,6 +2,12 @@
 
 > *"Calaveras County in a bottle" at 2,200 feet*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

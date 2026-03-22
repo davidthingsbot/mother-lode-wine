@@ -2,6 +2,12 @@
 
 > *Century-old family farm with wine, cider, and Apple Hill classics*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

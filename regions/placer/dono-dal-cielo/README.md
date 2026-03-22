@@ -2,6 +2,12 @@
 
 > *Zinfandel specialists since 2005*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

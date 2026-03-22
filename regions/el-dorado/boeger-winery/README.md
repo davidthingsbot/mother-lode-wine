@@ -2,6 +2,12 @@
 
 > *El Dorado's pioneering winery — first post-Prohibition winery in the county*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

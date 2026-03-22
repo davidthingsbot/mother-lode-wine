@@ -2,6 +2,12 @@
 
 > *Wine Cave tastings — 5,000 sq ft of underground experience*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

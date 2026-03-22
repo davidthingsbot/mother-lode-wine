@@ -2,6 +2,12 @@
 
 > *One of California's highest vineyards at 3,300 feet*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Third-generation family winery on volcanic soils at 2,700 feet*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

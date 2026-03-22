@@ -2,6 +2,12 @@
 
 > *"Fit for Cowboys & Kings" — Meet the winemaker*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

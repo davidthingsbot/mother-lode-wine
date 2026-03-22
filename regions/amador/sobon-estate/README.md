@@ -2,6 +2,12 @@
 
 > *Founded 1856 — Among California's oldest wineries*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

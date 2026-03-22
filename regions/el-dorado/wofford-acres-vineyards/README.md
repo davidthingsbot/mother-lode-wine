@@ -2,6 +2,12 @@
 
 > *"Come for the wine. Stay for the view." — 29+ harvests of gold medals*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

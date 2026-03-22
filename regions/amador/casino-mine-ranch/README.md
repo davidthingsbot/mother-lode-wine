@@ -2,6 +2,12 @@
 
 > *100-point winemaker on a Gold Rush ranch*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *No additives, no new oak, no big price tag*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

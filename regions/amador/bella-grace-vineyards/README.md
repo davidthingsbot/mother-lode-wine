@@ -2,6 +2,12 @@
 
 > *Underground wine cave with panoramic foothill views*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

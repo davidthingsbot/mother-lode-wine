@@ -2,6 +2,12 @@
 
 > *Father-son winemakers with spirits distilled from wine*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

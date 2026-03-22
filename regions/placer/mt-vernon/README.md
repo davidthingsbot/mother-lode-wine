@@ -2,6 +2,12 @@
 
 > *Placer County's largest and most-awarded winery*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

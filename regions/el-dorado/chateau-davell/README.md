@@ -2,6 +2,12 @@
 
 > *Small lot, handcrafted wines with organic and biodynamic practices*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *Small lot Southern Rhône wines from Fair Play estate*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

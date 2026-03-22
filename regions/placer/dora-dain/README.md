@@ -2,6 +2,12 @@
 
 > *"Micro micro" winery — Even smaller than boutique*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

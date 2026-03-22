@@ -2,6 +2,12 @@
 
 > *Sustainable family winery in blue-oak woodland*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

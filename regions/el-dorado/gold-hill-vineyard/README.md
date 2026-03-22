@@ -2,6 +2,12 @@
 
 > *Bordeaux varietals and craft beer near the gold discovery site*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

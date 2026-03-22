@@ -2,6 +2,12 @@
 
 > *Quality wines at affordable pricing since 1977*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

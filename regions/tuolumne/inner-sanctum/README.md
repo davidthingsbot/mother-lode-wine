@@ -2,6 +2,12 @@
 
 > *Limited and premium wines from the foothills*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *40 years of distinctive small-batch wines since 1984*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

@@ -2,6 +2,12 @@
 
 > *High quality, low production wines that demand your attention*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |

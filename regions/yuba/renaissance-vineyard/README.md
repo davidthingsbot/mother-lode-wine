@@ -2,6 +2,12 @@
 
 > *Biodynamic wines at extreme elevation since 1970s*
 
+![Photo](photo.jpg)
+
+## Location
+
+![Map](map.png)
+
 ## Overview
 
 | Field | Value |
