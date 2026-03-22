@@ -40,6 +40,15 @@ The Tanner family has lived and worked in the Sierra Foothills since the **mid-1
 
 Located on Main Street next to the Murphys Hotel. The family's multi-generational roots in the Sierra Foothills distinguish Tanner from newcomers.
 
+### Deep Roots
+Founded in the mid-1800s by **Angelo Sciaccaluga** — the **first licensed winemaker in Calaveras County**. Now operated by his great-grandchildren **Dick and Ron Tanner** with their wives and families.
+
+The original Omund Tanner was born in **Stavanger, Norway** and immigrated in 1855. A tanner by trade, he changed his last name in a "proud effort to acclimate to his new country."
+
+**32-acre estate vineyard** in Vallecito, just outside Murphys. 100% estate-grown wines.
+
+**Wine walk starting point:** Begin your 3-block downtown Murphys wine tour here — corner of Main Street & Algiers, across from the historic Murphys Hotel.
+
 ## Visited
 
 - [ ] Have not visited

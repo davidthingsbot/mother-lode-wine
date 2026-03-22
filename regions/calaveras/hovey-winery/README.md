@@ -38,6 +38,13 @@
 
 The unique setting in the heart of downtown Murphys is as special as the wines. The team loves sharing knowledge of 15 varietals and the local story behind each.
 
+### The Chuck Hovey Legacy
+**Chuck Hovey is a legendary winemaker** in the region — "more than 30 years of winemaking expertise." He dedicated 24 years to Stevenot Winery before launching his own label in 2008.
+
+Chuck also makes wine for Gianelli Vineyards in Jamestown and returned as winemaker for the Stevenot brand. After health challenges, partner Susan gathered friends to buy into the winery, and **Scott Klann of Newsome-Harlow** (whom Chuck mentored) stepped in to continue making Hovey Wine in Chuck's unique style.
+
+**Historic setting:** Located in the beautiful **1850 Albert Michelson house** right on Main Street — one of the oldest buildings in Murphys.
+
 ## Visited
 
 - [ ] Have not visited

@@ -37,6 +37,15 @@ Taste an amazing selection of outstanding Foothill wines — everything from Ali
 
 Relax and enjoy a picnic on the patio alongside Murphys Creek.
 
+### Origin Story
+Founded by **Liz and Steve Millier in 1983** — in the cellar of their former home in Murphys! In 1990, they moved to an **old Flying A gas station** on Main Street.
+
+**The early days:** Barrels stacked in the repair bays, wine tanks in the backyard, bottling in the front yard, and the tasting room in the office. That scrappy spirit remains.
+
+**Connection:** Steve Millier also serves as winemaker at Black Sheep Winery, making him one of the most prolific winemakers in Calaveras.
+
+**Try:** Gewürztraminer and Zinfandel Port — unique offerings beyond the typical varietals.
+
 ## Visited
 
 - [ ] Have not visited

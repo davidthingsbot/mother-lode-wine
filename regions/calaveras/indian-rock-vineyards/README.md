@@ -36,6 +36,15 @@ Escape to Indian Rock Vineyards just outside Murphys — where award-winning win
 
 Sip in the rustic tasting room, unwind by the serene pond, and don't forget to feed the fish! Perfect for a peaceful afternoon picnic or memorable tasting experience.
 
+### The Details
+Established in 2004 by **the Bauer Family**. Family-owned and operated — "Estate" winery growing **18 different varietals**, making them one of the most diverse vineyards in the region.
+
+**The pond:** Home to dozens of **trophy-sized rainbow trout** — ask your server for fish food to see them in action!
+
+**Favorites:** Reviewers recommend the Blackberry Pie wine. "Go talk to Jim at Indian Rock Vineyards."
+
+Just over a mile from charming downtown Murphys. The historic tasting room is a peaceful getaway surrounded by estate vineyards.
+
 ## Visited
 
 - [ ] Have not visited

@@ -42,6 +42,15 @@ Locally owned and operated since 2000, Newsome Harlow Wines is one of Calaveras 
 
 The downtown Murphys tasting room includes a comfy outdoor patio and hip vibe.
 
+### The Philosophy
+"We may be winemakers and wine marketers, but **we are wine drinkers first.**" They get that not everyone cares about awards — but for those who do, their small batches are becoming harder and harder to get.
+
+**Winemaker Scott Klann** also stepped in to make wines for Hovey Winery when Chuck Hovey needed support — evidence of the tight-knit Murphys winemaker community.
+
+**Highlights:** Working with some of the greatest Zinfandel vineyards in the Sierra Foothills. Live music events and special food pairing events regularly.
+
+15+ years making "NH Vino" — the people-first approach has built a loyal following.
+
 ## Visited
 
 - [ ] Have not visited

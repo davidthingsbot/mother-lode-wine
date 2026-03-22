@@ -35,7 +35,14 @@
 
 "We invite you to explore our tasting rooms and vineyard location. Meet the Aloria Vineyards team and be prepared to be inspired!"
 
-Reservations not required for groups of 4 or less. Larger groups should make reservations for proper staffing. The vineyard is closed to drop-in visitors — tastings by reservation only at that location.
+Reservations not required for groups of 4 or less. Larger groups should make reservations for proper staffing.
+
+### 120-Acre Estate
+A large estate stretching over **120 acres of endless golden grasslands, pastures, and hills**. Owners **Rob and Sheri** offer tours with stunning views from atop New Melones Reservoir.
+
+**Sister label:** Above The Rush Wines shares this location — sustainably grown grapes from the same estate.
+
+**Wedding venue:** The scenic property hosts celebrations — "they come ready to help you celebrate yours."
 
 ## Visited
 

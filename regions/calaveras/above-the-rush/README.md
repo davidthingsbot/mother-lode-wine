@@ -46,6 +46,13 @@ The vineyard is nestled at 2,200 feet amongst rolling, golden hills, with the es
 
 "Our family offers you our small craft, sustainably grown, meticulously made wine from our dreamy backyard. We are **Calaveras County in a bottle**."
 
+### Sister Winery
+Part of the **Aloria Vineyards family** — a **120-acre estate** with local, sustainably grown grapes.
+
+**Varietals:** Featured Spanish and Italian estate-grown wines — a distinctive focus among Calaveras wineries.
+
+**Off the beaten track:** The tasting room at 3210 Main St, Vallecito offers a peaceful escape from the crowded downtown Murphys scene.
+
 ## Visited
 
 - [ ] Have not visited

@@ -51,6 +51,13 @@ At **3,300 feet**, Brice Station is one of the highest vineyards in California. 
 
 The extreme elevation creates unique growing conditions rarely found in California viticulture.
 
+### More Than Wine
+Summer entertainment includes **Hilltop Concert Series** and **Shakespeare on the Vine** — theater in a vineyard setting.
+
+**Historic property:** Homestead Deed signed generations ago in the heart of the California Mother Lode. The elevation provides superb fruit quality plus spectacular hilltop views.
+
+**TripAdvisor reviewer:** "Don't skip this vineyard! Higher elevation made for very different and excellent wine tasting options. Hopper was fantastic, and the entire place from the concert venue to the pottery was amazing."
+
 ## Visited
 
 - [ ] Have not visited

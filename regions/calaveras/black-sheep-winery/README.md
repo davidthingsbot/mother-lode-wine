@@ -41,6 +41,17 @@ Black Sheep Winery began in **1984** with a bold Amador Zinfandel, setting itsel
 
 The name says it all — Black Sheep has always done things differently. If you're looking for something beyond mainstream wines, this 40-year veteran delivers.
 
+### Founding Story
+Founders **Janis and David Olson** crushed their first Zinfandel in 1984 with assistance from current owner/winemaker **Steve Millier**. The wine was styled "in a big, bold way like nobody else could do."
+
+**Historic firsts:**
+- **Third oldest tasting room in Calaveras County**
+- **First in the area to make Rhône varietals**
+
+**Try:** "True Frogs Lily Pad Red" — a special wine celebrating the famous Calaveras County Frog Jumps (Mark Twain connection!).
+
+Housed in a charming **historic little yellow farmhouse** on Main Street. Wide variety: Chardonnay, Cinsault, Shiraz, Cabernet Sauvignon, Merlot, and Port-style dessert wine.
+
 ## Visited
 
 - [ ] Have not visited

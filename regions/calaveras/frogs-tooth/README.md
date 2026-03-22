@@ -43,6 +43,17 @@ What they don't grow on their beautiful 10-acre vineyard in Copperopolis, they s
 
 A quarter-century of dedicated small-batch winemaking has built Frog's Tooth's reputation in Calaveras County.
 
+### The Saying
+"If wine can have legs, frogs can have teeth." Some of the **most awarded small-lot wines in the Sierra Foothills** — every cluster is hand picked and hand sorted so only the best fruit makes it into the wines.
+
+**Winemaker Tana Cole** is a curious winemaker who enjoys tending the vineyards and handcrafting boutique wines at the beautiful ranch near Copperopolis. The winery was built with the help of family and partners.
+
+**Two locations:**
+- **Murphys:** Tasting room at 380 Main St Suite 5 (reservations recommended)
+- **Copperopolis:** Vineyard/winery tours every Saturday — outdoor tastings with a view
+
+Celebrated 10th Anniversary of the tasting room in 2017.
+
 ## Visited
 
 - [ ] Have not visited

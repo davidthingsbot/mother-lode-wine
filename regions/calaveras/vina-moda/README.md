@@ -43,6 +43,13 @@ With over **20 years of winemaking experience**, Nathan continues to pride himse
 
 The beautiful stone tasting room provides an elegant setting for award-winning wines.
 
+### SF Chronicle Wine Competition Success
+Multiple medals at San Francisco Chronicle Wine Competition — the competition was fierce with 65 judges evaluating nearly 6,700 wines from 1,000+ wineries:
+- **Best in Class:** 2017 Sierra Foothills Syrah (judge: Mike Dunne, Sacramento Bee)
+- **Best of Class:** 2018 Sierra Foothills Vinas Mourvèdre Red Blend
+
+Nathan's background on a Rocky Mountain ranch gave him early agriculture skills. Upon moving to California, he discovered winemaking and never looked back.
+
 ## Visited
 
 - [ ] Have not visited

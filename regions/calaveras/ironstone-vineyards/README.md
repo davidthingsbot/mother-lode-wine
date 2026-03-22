@@ -53,6 +53,14 @@ Ironstone Vineyards has become one of the premier destination wineries in the Si
 
 This is more than a winery — it's a complete destination experience. The summer concert series at the amphitheater draws visitors from across California. The 44-pound crystalline gold piece in the museum is one of the largest ever found.
 
+### The Kautz Family Legacy
+In 1988, **John Kautz, his wife Gail, and their four children (Stephen, Kurt, Joan, and Jack)** built this winery and entertainment facility. Murphys is known as "The Queen of the Sierra."
+
+### The Gold Nugget Story
+**The Kautz specimen is the largest single piece of gold mined in North America since the 1880s** and the largest piece of crystallized gold in existence today. The French government wanted to buy it for the Louvre, but Kautz felt it belonged in California and purchased it. It was found only 9 air miles from the winery.
+
+**Facilities:** Wine caves, 200,000 sq ft amphitheater, lakeside gardens, Heritage Museum, Gold Leaf Deli.
+
 ## Visited
 
 - [ ] Have not visited

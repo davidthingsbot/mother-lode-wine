@@ -53,6 +53,13 @@ Matt's winemaking style continues evolving as he learns new and innovative vitic
 
 "Hatcher Winery ~ Home of School Street Wines produces the very best wines in Calaveras County."
 
+### The School Street Story
+In 2013, Matt Hatcher decided to expand by adding **School Street Wines** — born from "the love and dedication one extraordinary teacher has shown not only to her school, but also to her local community."
+
+**Since 2015**, the Hatcher brothers have been honoring the Chatom Legacy while pouring their hearts into School Street. Wines cover a wide spectrum of tastes and are reasonably priced.
+
+**Douglas Flat venue:** Mediterranean outdoor facility with large cobblestone courtyard surrounded by flourishing gardens and lush arbor — perfect for events and weddings.
+
 ## Visited
 
 - [ ] Have not visited

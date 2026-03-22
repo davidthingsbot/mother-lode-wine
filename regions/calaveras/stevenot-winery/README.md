@@ -45,6 +45,13 @@ Producing Sierra Foothills wines for over three decades, each Stevenot wine exem
 
 Two locations: downtown tasting room open daily, vineyard property open weekends. The Vallecito estate offers the complete winery experience.
 
+### The Pioneer
+**Established in 1978**, Stevenot was at the forefront of the renaissance of premium wine production in Calaveras County. Founded by **Barden Stevenot, a 5th-generation resident**.
+
+Barden trained notable winemakers including **Chuck Hovey** (now Hovey Winery), continuing a tradition of mentorship.
+
+**Current ownership:** The Oliveto family (Jon and David Oliveto) purchased the name and Murphys tasting room in 2010, continuing Barden's tradition. Their distribution company had been operating since 1979, serving Calaveras, Amador, and Tuolumne counties.
+
 ## Visited
 
 - [ ] Have not visited

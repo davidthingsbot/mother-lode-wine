@@ -38,6 +38,13 @@ Experience Broll's new rustic-modern tasting room located in the center of old t
 
 The commitment to organic farming sets Broll apart in the region.
 
+### Premium Quality
+Handcrafted with **integrity, legacy, and heritage**. French oak aging for luxury wines.
+
+**Organically grown varietals:** Cabernet Sauvignon, Merlot, Syrah, Petite Sirah, Roussanne, Chardonnay, and specialty blends.
+
+**Yelp reviewers:** "Best tasting room in Murphys" — the closest boutique vineyard to old town, making it an easy first or last stop on Main Street.
+
 ## Visited
 
 - [ ] Have not visited

@@ -44,6 +44,17 @@ Mark Hoover, owner and winemaker, is committed to producing authentic Rhône and
 
 Indoor tastings or outdoor patio overlooking the scenic vineyard. The historic barn setting adds atmosphere to the experience.
 
+### The Barn
+A **historic 100-year-old barn** — charming and authentic. Current owners **Jonathan and Jeanine** are described as "delightful, informative, and warm."
+
+**Unique offering:** They offer the **only Pinotage** in Murphys — a South African grape that's extremely rare in California. Try the **Three Cousins** blend (Syrah, Petite Sirah, Mourvèdre) aged 20 months in French and American oak.
+
+**Sweet treat:** The **Fudgy Raspberry Chocolate Cake** is "out of this world."
+
+Expansion plans include building out 5,000 square feet for wine production, with a second tasting room in Watsonville.
+
+Specializes in **Rhône, Italian, and Spanish varietals** — a distinctive focus among Calaveras wineries.
+
 ## Visited
 
 - [ ] Have not visited
