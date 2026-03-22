@@ -42,6 +42,13 @@ Premium, hand-crafted boutique wines served in a rustic-modern tasting room. The
 
 Small, family-operated winery offering a friendly, educational wine-tasting experience in the laid-back comfort of the countryside.
 
+### 35-Year Passion
+**Launched in 2007** by winemaker **Phil Maddux** and wife **Jill** — the culmination of Phil's 35-year passion for winemaking.
+
+**Facilities:** Located on a **12-acre parcel of historic farmland** in North Auburn. The winery boasts over 2,400 sq ft for tasting, production, and storage, plus 1,800 sq ft of crush pad.
+
+**Mission:** Doing its part to return Placer County to its post-Gold Rush roots as a premium wine-producing region.
+
 ## Visited
 
 - [ ] Have not visited

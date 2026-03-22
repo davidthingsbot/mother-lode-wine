@@ -43,6 +43,13 @@ Butterfly Creek Winery is **by far the oldest** of the wineries currently operat
 
 Essential visiting for understanding Mariposa County's winemaking history.
 
+### Gerken Family Since 1972
+**Bob and Darlene Gerken** have continued their family traditions since arriving in Mariposa in 1972. They've developed family vineyards taking advantage of spring water, clean climate, and rich Sierra Nevada soil.
+
+**Reviewer experience:** "The owner welcomed us in for tastings... shared the family and winery history and regaled us with family stories as well as information about the area."
+
+A true Yosemite gateway winery — combine wine tasting with a trip to the park.
+
 ## Visited
 
 - [ ] Have not visited

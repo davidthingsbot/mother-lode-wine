@@ -45,6 +45,13 @@ Renaissance Vineyard & Winery in Oregon House represents one of the earliest com
 
 For those interested in biodynamic and aged wines, Renaissance is essential visiting. The Oregon House location offers a remote, contemplative experience.
 
+### California's Strangest Vineyard
+The winery is owned and run by the **Fellowship of Friends**, a group formed around alternative religious and philosophical beliefs, founded by Robert Earl Burton. The SF Chronicle called it "one of the country's great wineries."
+
+**The "Original Cult Wine"** — though the label might be controversial, the wines are undeniably remarkable. High-elevation biodynamic viticulture from one of California's earliest committed practitioners.
+
+This is not a typical winery visit — it's a journey into one of California wine's most unusual stories.
+
 ## Visited
 
 - [ ] Have not visited
