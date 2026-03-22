@@ -73,6 +73,13 @@ This is essential visiting for anyone interested in the history of Rhône variet
 
 The winery also serves as a wedding and event venue.
 
+### The Engineer-Professor-Winemaker
+John MacCready arrived in El Dorado County and started "a successful marriage of engineering, harmonica playing, and viticulture that has lasted more than four decades."
+
+**The Research:** MacCready made a formal study comparing the Northern Rhône Valley to El Dorado County — finding the climate, rainfall, and soil type strikingly similar. This research led him to plant Syrah in 1979, making Sierra Vista a **pioneer of the California Rhône movement**.
+
+The winery has new owners today but continues the Rhône tradition MacCready established.
+
 ## Visited
 
 - [ ] Have not visited

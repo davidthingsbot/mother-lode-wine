@@ -68,6 +68,16 @@ Perry Creek is known as "Home of the elusive ZinMan" — their signature Zinfand
 
 The boutique winery is located just an hour from Lake Tahoe, making it a popular weekend destination for wine enthusiasts.
 
+### ZinMan: Fair Play's Most Sought-After Wine
+The ZinMan has won numerous awards including **Gold Medal at the California State Fair** (2003). Wine Searcher reports it's "Fair Play's most sought-after wine (as measured by user searches)."
+
+**Other accolades:**
+- **Altitude:2401 Petite Sirah 2009:** "Best of Region Sierra Foothills" Double Gold, CA State Fair 2012
+- **Altitude:2401 Zinfandel 2009:** 90 Points Wine Spectator Magazine
+- **ZinMan 2009:** 88 Points Wine Spectator Magazine
+
+The wine embodies all that is great about Fair Play Zinfandel.
+
 ## Visited
 
 - [ ] Have not visited

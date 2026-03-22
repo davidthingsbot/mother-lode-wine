@@ -53,6 +53,11 @@ The winery makes award-winning wines using sustainable practices and produces sm
 
 Nestled in the rolling grapeland of Fair Play near Somerset, Windwalker is described as a "long and winding road worth the drive."
 
+### Home Winemakers Made Good
+Jim and Alanna started as members of the **El Dorado Home Wine Makers Association**, dreaming of making their own wine. In 2008, they purchased the established Windwalker property — 28+ growing seasons of cultivated vineyard.
+
+**2018:** Celebrated 10 years of stewardship. The venerable vineyard has changed hands over the years, but the Taffs brought it to new heights with sustainable practices and small-lot quality.
+
 ## Visited
 
 - [ ] Have not visited
