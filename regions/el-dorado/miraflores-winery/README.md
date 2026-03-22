@@ -81,6 +81,13 @@ From June through October, their "PAIRINGS" series features chef-prepared lunche
 
 Marco Cappelli's sweet wines are particularly noteworthy — if you enjoy dessert wines, these are not to be missed.
 
+### The Track Record
+One of the premier El Dorado wineries with an exceptional quality record:
+- **50+ wines scoring 90+ points** from Wine Spectator and Wine Enthusiast
+- Named **"A Winery to Watch"** by Wine Spectator before its second anniversary
+
+Master winemaker Marco Cappelli trained current winemaker Fernando Abarca, ensuring continuity. Victor and Cheryl Alvarez's commitment to doing everything right from day one has paid off spectacularly.
+
 ## Visited
 
 - [ ] Have not visited

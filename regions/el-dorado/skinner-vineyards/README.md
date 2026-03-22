@@ -74,9 +74,19 @@ The Skinners describe themselves as "true adventurers" — their winery represen
 
 ## Notes
 
-The dual tasting room model allows visitors to experience Skinner wines in two distinct settings: the Fair Play estate (wing Ranch) and the more accessible Green Valley Ranch in Rescue. The Green Valley location is particularly welcoming, with guests invited to enjoy tastings seated inside, on the patio, or at picnic tables in the park.
+The dual tasting room model allows visitors to experience Skinner wines in two distinct settings: the Fair Play estate (Wing Ranch) and the more accessible Green Valley Ranch in Rescue. The Green Valley location is particularly welcoming, with guests invited to enjoy tastings seated inside, on the patio, or at picnic tables in the park.
 
 The combination of genuine Gold Rush history, estate Rhône wines, and relaxed atmosphere makes this a must-visit.
+
+### One of California's First Wineries
+In 1861, **great-great-great-grandfather James Skinner established one of the first wineries in California**. His Scottish pioneering spirit sparked something in the modern Skinners.
+
+**Must-try wines:**
+- **Seven Generations** (white)
+- **Dry Diggings** (GSM red)
+- **1861** — an exceptional GSM paying tribute to the founding year
+
+Reviewers rave about the exceptional wines, beautiful grounds, and "views to die for."
 
 ## Visited
 

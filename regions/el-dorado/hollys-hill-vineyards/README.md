@@ -85,6 +85,11 @@ The winery describes itself as "Rugged, Refined" — capturing the combination o
 
 This is one of the few wineries in California completely dedicated to Rhône varieties. Essential visiting for Rhône enthusiasts.
 
+### The Honeymoon That Changed Everything
+Tom and Holly fell in love with Southern France's Rhône Valley wines when they shared a bottle of **Châteauneuf-du-Pape on their honeymoon**. Holly convinced Tom to move to his family's cattle ranch in the foothills — "Holly got her hill; Tom got to fulfill his lifelong dream of planting a vineyard."
+
+**Reviewer vibe:** "While sitting under the Oak tree I thought I was in Spain eating the Paella and sipping on a glass of Patriarche."
+
 ## Visited
 
 - [ ] Have not visited

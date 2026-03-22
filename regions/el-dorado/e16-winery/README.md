@@ -69,6 +69,11 @@ The property features a wooded creek with a charming footbridge and shaded terra
 
 Both E16 and Firefall wines are served at the Somerset location, making this a two-for-one destination.
 
+### Third Generation + Russian River Excellence
+Founded by **3rd generation winegrower Robert Jones** and winemaker **Daniel Moore**, E16 combines Jones' Firefall label with Moore's success making exceptional Pinot Noir in the Russian River Valley.
+
+**All Pinots and Chardonnays rated 90+ points** — sourced from Russian River Valley, Bennett Valley (Sonoma), Anderson Valley (Mendocino), and Santa Lucia Highlands (Monterey). Partners with celebrated growers committed to sustainability and terroir expression.
+
 ## Visited
 
 - [ ] Have not visited

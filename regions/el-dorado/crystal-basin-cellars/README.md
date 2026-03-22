@@ -59,6 +59,11 @@ The Camino location is part of a cluster of four tasting rooms, making it easy t
 
 For those who can't make it to the Sierra Foothills, the Folsom tasting room provides convenient access to Crystal Basin wines.
 
+### The Vibe
+**Rustic winery and bistro** — beautiful yet very family-friendly (and dog-friendly). Stay for the day and play games in the park, or take a mental health break with fantastic wines and foothill hospitality.
+
+**Reviewer experience:** "Super friendly owners and staff. They had us tasting lots of wines not on the list. We ended up buying six bottles (considering we don't have much room in the RV)."
+
 Staff members Mike, Barbara, and KZ are specifically praised for creating a welcoming atmosphere.
 
 ## Visited

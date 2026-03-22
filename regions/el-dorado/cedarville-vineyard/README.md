@@ -70,6 +70,13 @@ Cedarville represents the best of what happens when UC Davis-trained winemakers 
 
 Tastings are by appointment only, ensuring a personal experience with the winemaker.
 
+### The Love Story
+**They met at a UC Davis student wine tasting** on a warm summer night over a glass of 1980 Chateau St. Jean Chardonnay. A wine-lover's fairy tale. Jonathan's first internship at Cakebread Cellars confirmed that small-scale, hands-on winemaking was his calling.
+
+**No employees:** Jonathan and Susan relied only on each other — true artisanal production. Susan has since passed, but Jonathan continues their shared vision.
+
+**Fair Play AVA:** The appellation created in 2001 has the **highest average elevation of any in California**.
+
 ## Visited
 
 - [ ] Have not visited

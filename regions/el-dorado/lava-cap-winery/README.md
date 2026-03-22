@@ -70,6 +70,13 @@ The winery opened in 1986 and has remained family-owned for three generations. T
 
 The combination of extreme elevation (among California's highest vineyards) and rare volcanic soils creates wines with a distinctive character — intensely aromatic and luscious with deep, rich fruit. The setting in the Apple Hill area makes this a popular destination.
 
+### The Geologist's Choice
+In 1981, **David and Jeanne Jones** bought a 65-acre parcel in the heart of the famed Apple Hill region. As a family of geologists, they specifically selected this site for its prime volcanic soil — weathered from ancient ash flows — particularly well suited to growing fine wine grapes.
+
+The unique terroir produces wines that are "intensely aromatic with deep, rich fruit **erupting with flavor**" — an apt description for wines from a volcanic vineyard.
+
+Third generation family-owned, utilizing only mountain-grown grapes since 1986.
+
 ## Visited
 
 - [ ] Have not visited

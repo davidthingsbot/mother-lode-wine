@@ -73,6 +73,13 @@ Today, the winery is operated by Greg and his son Justin, who serves as winemake
 
 The grounds offer a magical atmosphere — visitors describe it as "stepping into another world." The combination of Gold Rush history, mature gardens, peaceful pond, and quality wines makes this essential visiting for anyone exploring El Dorado wine country.
 
+### The Pioneer Story
+In 1972, at just **29 and 27 years old**, Greg and Sue Boeger took a gutsy first step founding El Dorado's first post-Prohibition winery. Greg is now considered "a living legend" of the region.
+
+**Fourth generation:** Justin Boeger continues the family tradition — the winery celebrated its **50th anniversary in 2022**.
+
+The Boegers' pioneering move sparked the modern renaissance of winemaking throughout the Sierra Foothills. Essentially, no El Dorado wine scene exists without what Greg and Sue started.
+
 ## Visited
 
 - [ ] Have not visited

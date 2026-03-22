@@ -73,6 +73,11 @@ Gold Hill offers more than wine — the property features:
 
 The location near Marshall Gold Discovery State Historic Park makes this a natural stop when exploring California Gold Rush history. The combination of winery and brewery is unique in the region.
 
+### Engineer Turned Winemaker
+**Hank Battjes** worked 27 years as an electrical engineer at GTE Sylvania, applying engineering precision to his home winemaking hobby. When a friend pointed out land near Coloma — just a mile from where gold was discovered at Sutter's Mill — Hank found his perfect site.
+
+**Cellars:** Over 3,500 cases of wine in the cellar, allowing extended aging. Daughter **Bryna Dacus** continues the family legacy, adding craft beer in 1999.
+
 ## Visited
 
 - [ ] Have not visited
